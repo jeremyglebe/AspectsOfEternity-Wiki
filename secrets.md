@@ -2,7 +2,7 @@
 title: Secrets
 description: Things the players shouldn't know... yet?
 published: true
-date: 2023-05-15T19:23:27.873Z
+date: 2023-05-15T19:37:33.885Z
 tags: history, spoilers
 editor: markdown
 dateCreated: 2023-05-15T19:03:58.369Z
@@ -10,16 +10,16 @@ dateCreated: 2023-05-15T19:03:58.369Z
 
 # The God-King's Sacrifice and the Ascension of the White Flame
 
-The cataclysm of Elysium, the cradle of civilizations, was caused by the manifestation of an ancient and potent outer god, known as the Moon Presence. As the being laid waste to the world, it was God-King Aurias who saved humanity with his last defiance. In a grand act of sacrifice, he used his divine power to banish the Moon Presence. This act, however, cost Aurias his life, and he was reduced to a shriveled husk, his once radiant form extinguished.
+The cataclysm of Elysium was a catastrophe of apocalyptic proportions, brought to bear by the manifestation of the Moon Presence, an ancient and potent outer god. Unleashing its unholy power, it laid waste to the world, transforming a once prosperous civilization into a battlefield of despair and destruction.
 
-His apprentice, the White Flame Etehr, a Gnome ascended to godhood, was at his side during these final moments. Witnessing the sacrifice of Aurias had profound implications, shaking the foundations of their world. A demi-human god, ascending to the mantle of God-King, was an unprecedented event, causing ripples across the divine and mortal realms alike. 
+It was during this time of chaos and devastation that God-King Aurias made his final stand. With a resolute heart and unwavering determination, he confronted the Moon Presence. In an act of ultimate sacrifice, Aurias used every shred of his divine power to banish the malevolent entity. The cost was his life; his radiant form was extinguished, reduced to a shriveled husk.
 
-In his final moments, Aurias turned to Etehr, his eyes aflame with wisdom and resolve.
+At Aurias' side during these cataclysmic events was the White Flame Etehr, a Gnome turned god. Etehr and Aurias shared a bond that transcended their divine status; a friendship that had spanned over a hundred years. Aurias had mentored Etehr since his ascension, guiding him along the divine path.
 
-> To be a god is not to be immortal, Etehr,"
+In his last moments, Aurias spoke to Etehr, his voice echoing with wisdom and resolve.
 
-he intoned, his voice a mere whisper, yet resonating with the weight of ages.
+> To be a god, Etehr, is not to be eternally living. We are but scribes of our own destiny. Our power, it dwelleth in our purpose. My purpose hath been to shield our kinfolk. Now, unto thee, I bestow this duty. In this epoch of shadow, mankind yearns for a beacon; a flame to cleave through the abyss. Thou, the White Flame, shall serve as this beacon. Thou art deserving of the crown.
 
-> In ages past we have lived and died. We are not immortal. We are merely authors of our own fate. Our power is in our purpose and my purpose has been grand. I have protected our people through the ages. I gift this purpose to thee, if thou wilt accept. Humanity, in this era of darkness, needs a light; a flame to cut through the darkness and pave the way. The God-King of the long night shall be the White Flame. Humanity shall come together, man and his brethren, to survive this deathly cold. This I have spoken, this I shall speak: Thou art worthy of a crown.
+With Aurias' final words, his light dimmed, leaving a husk. Etehr, mourning his mentor, assumed the mantle of God-King, swearing to safeguard their people.
 
-With these final words, the light in Aurias' eyes dimmed, leaving behind only the shriveled form of what once was a mighty God-King. Mourning the loss of his mentor, Etehr took upon himself the mantle of God-King, vowing to protect their people and lead them to salvation.
+Etehr's ascension shook the divine and mortal realms alike. The ascent of a demi-human god to the status of God-King was unprecedented. Yet, in the looming darkness, it brought unity to humanity, both man and kin alike. A new, darker era had dawned, yet it was bound together under one unified banner.
