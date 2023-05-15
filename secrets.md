@@ -2,13 +2,15 @@
 title: Secrets
 description: Things the players shouldn't know... yet?
 published: true
-date: 2023-05-15T19:37:33.885Z
+date: 2023-05-15T19:39:58.643Z
 tags: history, spoilers
 editor: markdown
 dateCreated: 2023-05-15T19:03:58.369Z
 ---
 
-# The God-King's Sacrifice and the Ascension of the White Flame
+# Who Is The God-King?
+
+## The God-King's Sacrifice and the Ascension of the White Flame
 
 The cataclysm of Elysium was a catastrophe of apocalyptic proportions, brought to bear by the manifestation of the Moon Presence, an ancient and potent outer god. Unleashing its unholy power, it laid waste to the world, transforming a once prosperous civilization into a battlefield of despair and destruction.
 
