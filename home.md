@@ -2,7 +2,7 @@
 title: Aspects of Eternity
 description: A Sci-Fi/Post-Apocalypse Campaign Setting
 published: true
-date: 2023-05-15T18:52:14.809Z
+date: 2023-05-15T18:53:00.121Z
 tags: history, intro, no-spoilers
 editor: markdown
 dateCreated: 2023-05-15T16:59:00.936Z
@@ -31,7 +31,7 @@ Above Elysys loomed the Overdark Station, a massive alien vessel of unknown orig
 ## A World of Contrasts - Technology, Magic, and the Struggle for Survival
 In this world of contrasts, Harbor is a melting pot of primitive structures and advanced technology. The military employs mid-level tech to defend against the planet's threats, while the Lords Eternal cling to their dwindling power suits. The people of Harbor live with a mix of ancient knowledge, scavenged alien technology, and the ever-present danger posed by the hostile environment and demonic forces.
 
-![overdarkstation1.jpeg](/overdarkstation1.jpeg)
+![overdarkstation1.jpeg](/overdarkstation1.jpeg =500x){.align-center}
 
 # Adventuring
 
