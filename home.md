@@ -2,7 +2,7 @@
 title: Aspects of Eternity
 description: A Sci-Fi/Post-Apocalypse Campaign Setting
 published: true
-date: 2023-05-15T18:53:00.121Z
+date: 2023-05-15T19:45:26.078Z
 tags: history, intro, no-spoilers
 editor: markdown
 dateCreated: 2023-05-15T16:59:00.936Z
@@ -18,7 +18,9 @@ Welcome to Aspects of Eternity, a rich and immersive sci-fi/post-apocalypse camp
 The story of Aspects of Eternity begins on the long-forgotten planet of Elysys, the cradle of human and demi-human civilizations. A devastating cataclysm struck the world when the moon collapsed, revealing an ancient presence just beneath the surface. This being would emerge and lay waste to the once-thriving civilizations, opening portals into the dark Abyss and felling gods with a whisper. Then, as soon as it had appeared, the presence was gone from this realm. The gods, immortal and mighty, were stripped of their Aspects of Eternity, becoming mortal and vulnerable. As the Aspects vanished, so too did their ability to traverse the godly realms.
 
 ## The God-King's Exodus and the War Among the Stars
-The newly mortal gods fought a bitter war against both each other and the abyssal creatures. Many of the "Order" pantheon fell, including the former head of the pantheon, God-King Aurias. His apprentice, the White Flame Etehr, ascended as the new God-King and took charge of humanity's salvation. Recognizing the hopeless state of Elysys, God-King Etehr led a grand exodus, taking humanity and its demi-human brethren to the stars. With the aid of dwarven forges, gnomish engineering, elven magicks, and the combined efforts of humans and halflings, they built a colossal space station, New Salem, to serve as their new home.
+The newly mortal gods fought a bitter war against both each other and the abyssal creatures. Many of the "Order" pantheon fell. \[[This story is expanded in the wiki secrets.](/secrets#Who%20Is%20The%20God-King?)\]
+
+Recognizing the hopeless state of Elysys, God-King Etehr led a grand exodus, taking humanity and its demi-human brethren to the stars. With the aid of dwarven forges, gnomish engineering, elven magicks, and the combined efforts of humans and halflings, they built a colossal space station, New Salem, to serve as their new home.
 
 For 50,000 years, humanity battled against alien forces known as the "Other," but victory remained elusive. As the war raged, the God-King aged and eventually perished, leaving his people with one final command: "Return to Elysys. In the skies of the old world thou shalt find the Aspects. My people shall claim Eternity once more and resurrect this withered body... Then shall the light of Humanity shine once more..."
 
