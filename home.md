@@ -2,8 +2,8 @@
 title: Aspects of Eternity - Home
 description: A campaign setting of mixed technology, societal corruption, and chaotic forces from deep space.
 published: true
-date: 2023-05-15T16:59:08.354Z
-tags: 
+date: 2023-05-15T17:26:00.312Z
+tags: history, intro, no-spoilers
 editor: markdown
 dateCreated: 2023-05-15T16:59:00.936Z
 ---
