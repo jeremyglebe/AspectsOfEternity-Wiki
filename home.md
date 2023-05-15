@@ -2,7 +2,7 @@
 title: Aspects of Eternity
 description: A Sci-Fi/Post-Apocalypse Campaign Setting
 published: true
-date: 2023-05-15T19:47:52.281Z
+date: 2023-05-15T19:55:11.827Z
 tags: history, intro, no-spoilers
 editor: markdown
 dateCreated: 2023-05-15T16:59:00.936Z
@@ -18,7 +18,7 @@ Welcome to Aspects of Eternity, a rich and immersive sci-fi/post-apocalypse camp
 The story of Aspects of Eternity begins on the long-forgotten planet of Elysys, the cradle of human and demi-human civilizations. A devastating cataclysm struck the world when the moon collapsed, revealing an ancient presence just beneath the surface. This being would emerge and lay waste to the once-thriving civilizations, opening portals into the dark Abyss and felling gods with a whisper. Then, as soon as it had appeared, the presence was gone from this realm. The gods, immortal and mighty, were stripped of their Aspects of Eternity, becoming mortal and vulnerable. As the Aspects vanished, so too did their ability to traverse the godly realms.
 
 ## The God-King's Exodus and the War Among the Stars
-The newly mortal gods fought a bitter war against both each other and the abyssal creatures. Many of the "Order" pantheon fell. God-King Aurias and his apprentice, the White Flame Etehr, fought side-by-side in this struggle. \[[This story is expanded in the wiki secrets.](/secrets#Who%20Is%20The%20God-King?)\]
+The newly mortal gods fought a bitter war against both each other and the abyssal creatures. Many of the "Order" pantheon fell. God-King Aurias and his apprentice, the White Flame Etehr, fought side-by-side in this struggle. \[[This story is expanded in the wiki secrets.](/secrets#who-is-the-god-king)\]
 
 Recognizing the hopeless state of Elysys, the God-King led a grand exodus, taking humanity and its demi-human brethren to the stars. With the aid of dwarven forges, gnomish engineering, elven magicks, and the combined efforts of humans and halflings, they built a colossal space station, New Salem, to serve as their new home.
 
