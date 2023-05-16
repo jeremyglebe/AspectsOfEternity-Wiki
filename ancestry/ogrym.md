@@ -2,7 +2,7 @@
 title: Ogrym
 description: Ogryms are a unique offshoot of ogres, monstrous in size with stone-like skin and poisonous breath.
 published: true
-date: 2023-05-16T17:31:38.958Z
+date: 2023-05-16T17:48:28.794Z
 tags: history, no-spoilers, ancestry
 editor: markdown
 dateCreated: 2023-05-16T03:53:41.703Z
@@ -14,7 +14,37 @@ Ogryms, descendants of an ancient Ogre army, are truly monstrous in size, standi
 
 # Playing an Ogrym
 
+When selected as a character ancestry, Ogryms have the following traits:
 
+## [2] Armor 2
+The species has a thick hide or is encrusted in solid material like scaly plating or even rock. This grants Armor +2 each time it’s taken.
+
+## [2] Attribute Increase (Strength)
+During character creation, the species increases a particular attribute
+(Agility, Smarts, Spirit, Strength, or Vigor) one die type. This increases the Trait’s maximum
+by one as well.
+
+## [2] Attribute Increase (Vigor)
+During character creation, the species increases a particular attribute
+(Agility, Smarts, Spirit, Strength, or Vigor) one die type. This increases the Trait’s maximum
+by one as well.
+
+## [2] Size +2
+The creature is larger than normal. Each point of Size adds directly to Toughness and increases maximum Strength one step. Large species may have difficulty using equipment designed for more traditional humanoids. See page 106 for more on Size.
+
+## [-2] Big
+The race is particularly large in a world where most others aren’t. He subtracts 2 from Trait rolls when using equipment that wasn’t specifically designed for his race and cannot wear their armor or clothing. Equipment, food, and clothing cost double the listed price.
+
+## [-1] Hinderance (Minor, Outsider)
+The race has an inherent Minor Hindrance for 1 point, or a Major Hindrance
+for 2. This doesn’t affect the ability to choose other Hindrances during character creation.
+
+## [-1] Hinderance (Minor, Phobia (Orx))
+The race has an inherent Minor Hindrance for 1 point, or a Major Hindrance
+for 2. This doesn’t affect the ability to choose other Hindrances during character creation.
+
+## [-1] Reduced Pace 1
+For –1 point, reduce Pace by 1 and the running die a die type (d4 is reduced to d4–1). For –2 points, reduce Pace another 2 points and subtract 2 from Athletics and rolls to resist Athletics where movement and mobility are integral to the challenge (GM’s call).
 
 # History
 
