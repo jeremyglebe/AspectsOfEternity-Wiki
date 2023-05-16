@@ -2,7 +2,7 @@
 title: Ogrym
 description: Ogryms are a unique offshoot of ogres, monstrous in size with stone-like skin and poisonous breath.
 published: true
-date: 2023-05-16T03:53:41.703Z
+date: 2023-05-16T17:31:38.958Z
 tags: history, no-spoilers, ancestry
 editor: markdown
 dateCreated: 2023-05-16T03:53:41.703Z
@@ -11,6 +11,10 @@ dateCreated: 2023-05-16T03:53:41.703Z
 # Overview
 
 Ogryms, descendants of an ancient Ogre army, are truly monstrous in size, standing significantly larger and wider than even the mighty Ogres from which they descend. Their skin is akin to stone, their breath toxic to certain forms of life, and their eyes burn with deep reds and yellows. They are slow in pace but surprisingly agile in combat, capable of devastating physical feats.
+
+# Playing an Ogrym
+
+
 
 # History
 
