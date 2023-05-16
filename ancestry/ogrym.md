@@ -2,7 +2,7 @@
 title: Ogrym
 description: Ogryms are a unique offshoot of ogres, monstrous in size with stone-like skin and poisonous breath.
 published: true
-date: 2023-05-16T18:07:30.805Z
+date: 2023-05-16T18:09:04.890Z
 tags: history, no-spoilers, ancestry
 editor: markdown
 dateCreated: 2023-05-16T03:53:41.703Z
@@ -53,7 +53,7 @@ for 2. This doesn’t affect the ability to choose other Hindrances during chara
 The race has an inherent Minor Hindrance for 1 point, or a Major Hindrance
 for 2. This doesn’t affect the ability to choose other Hindrances during character creation.
 
-## [-2] Hinderance (Major, Phobia (Orx))
+## [-2] Hinderance (Major, Phobia (Fungi))
 The race has an inherent Minor Hindrance for 1 point, or a Major Hindrance
 for 2. This doesn’t affect the ability to choose other Hindrances during character creation.
 
