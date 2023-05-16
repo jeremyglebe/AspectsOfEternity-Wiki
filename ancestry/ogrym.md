@@ -2,7 +2,7 @@
 title: Ogrym
 description: Ogryms are a unique offshoot of ogres, monstrous in size with stone-like skin and poisonous breath.
 published: true
-date: 2023-05-16T17:48:28.794Z
+date: 2023-05-16T18:07:30.805Z
 tags: history, no-spoilers, ancestry
 editor: markdown
 dateCreated: 2023-05-16T03:53:41.703Z
@@ -29,19 +29,40 @@ During character creation, the species increases a particular attribute
 (Agility, Smarts, Spirit, Strength, or Vigor) one die type. This increases the Trait’s maximum
 by one as well.
 
+## [1] Immune to Poison
+The species is immune to poison. (And, in Ogryms case, resistant to alcohol)
+
+## [2] Poisonous Touch (Lethal)
+With a successful Touch Attack (page 108), bite, or claw, the victim
+must roll Vigor or suffer the effects of Mild Poison. For 3 points the poison can be upgraded
+to Knockout, Lethal, or Paralyzing instead, but each use causes the hero Fatigue. The
+character may always choose whether or not to use her poison touch. See page 128 for
+Poison and its effects. (NOTE: Normally costs 3, reducing because in the Ogryms' case, this only affects fungi, vines, "chaos growths", and some common plantlife)
+
 ## [2] Size +2
 The creature is larger than normal. Each point of Size adds directly to Toughness and increases maximum Strength one step. Large species may have difficulty using equipment designed for more traditional humanoids. See page 106 for more on Size.
 
 ## [-2] Big
 The race is particularly large in a world where most others aren’t. He subtracts 2 from Trait rolls when using equipment that wasn’t specifically designed for his race and cannot wear their armor or clothing. Equipment, food, and clothing cost double the listed price.
 
+## [-1] Hinderance (Minor, Death Wish)
+The race has an inherent Minor Hindrance for 1 point, or a Major Hindrance
+for 2. This doesn’t affect the ability to choose other Hindrances during character creation.
+
 ## [-1] Hinderance (Minor, Outsider)
 The race has an inherent Minor Hindrance for 1 point, or a Major Hindrance
 for 2. This doesn’t affect the ability to choose other Hindrances during character creation.
 
-## [-1] Hinderance (Minor, Phobia (Orx))
+## [-2] Hinderance (Major, Phobia (Orx))
 The race has an inherent Minor Hindrance for 1 point, or a Major Hindrance
 for 2. This doesn’t affect the ability to choose other Hindrances during character creation.
+
+## [-1] Hinderance (Minor, Ugly)
+The race has an inherent Minor Hindrance for 1 point, or a Major Hindrance
+for 2. This doesn’t affect the ability to choose other Hindrances during character creation.
+
+## [-1] Racial Enemy (Orx):
+This species dislikes another species relatively common to the setting. They suffer a –2 penalty to Persuasion rolls when dealing with their rivals and may become hostile with little provocation. This may only be taken once per race.
 
 ## [-1] Reduced Pace 1
 For –1 point, reduce Pace by 1 and the running die a die type (d4 is reduced to d4–1). For –2 points, reduce Pace another 2 points and subtract 2 from Athletics and rolls to resist Athletics where movement and mobility are integral to the challenge (GM’s call).
