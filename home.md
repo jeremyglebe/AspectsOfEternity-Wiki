@@ -2,7 +2,7 @@
 title: Aspects of Eternity
 description: A Sci-Fi/Post-Apocalypse Campaign Setting
 published: true
-date: 2023-05-15T19:55:11.827Z
+date: 2023-05-16T04:21:42.099Z
 tags: history, intro, no-spoilers
 editor: markdown
 dateCreated: 2023-05-15T16:59:00.936Z
@@ -20,7 +20,7 @@ The story of Aspects of Eternity begins on the long-forgotten planet of Elysys, 
 ## The God-King's Exodus and the War Among the Stars
 The newly mortal gods fought a bitter war against both each other and the abyssal creatures. Many of the "Order" pantheon fell. God-King Aurias and his apprentice, the White Flame Etehr, fought side-by-side in this struggle. \[[This story is expanded in the wiki secrets.](/secrets#who-is-the-god-king)\]
 
-Recognizing the hopeless state of Elysys, the God-King led a grand exodus, taking humanity and its demi-human brethren to the stars. With the aid of dwarven forges, gnomish engineering, elven magicks, and the combined efforts of humans and halflings, they built a colossal space station, New Salem, to serve as their new home.
+Recognizing the hopeless state of Elysys, the God-King led a grand exodus, taking humanity and its demi-human brethren to the stars. With the aid of dwarven forges, gnomish engineering, elven magicks, and the combined efforts of humans and halflings, they built a colossal space station, Havenstar, to serve as their new home.
 
 For 50,000 years, humanity battled against alien forces known as the "Other," but victory remained elusive. As the war raged, the God-King aged and eventually perished, leaving his people with one final command: "Return to Elysys. In the skies of the old world thou shalt find the Aspects. My people shall claim Eternity once more and resurrect this withered body... Then shall the light of Humanity shine once more..."
 
