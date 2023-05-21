@@ -2,7 +2,7 @@
 title: Iron Holdfast
 description: A small, independent settlement that serves as the central hub for raiders who venture into the Overdark Station.
 published: true
-date: 2023-05-21T23:06:48.547Z
+date: 2023-05-21T23:13:51.614Z
 tags: history, no-spoilers, location
 editor: markdown
 dateCreated: 2023-05-21T18:47:10.548Z
@@ -30,7 +30,7 @@ Iron Holdfast is a small, independent settlement that serves as the central hub 
 
 **Maelis "Quickfinger" Vel**: The quick-witted and nimble-fingered proprietor of The Cache, Maelis is an elf with an eye for valuable goods. Her auburn hair is streaked with gray, and her green eyes sparkle with a cunning intelligence. Despite her somewhat shifty appearance, Maelis is a fair trader and an essential part of the Iron Holdfast community.
 
-**Rollo and Rina Forgeheart**: The sibling duo behind Grit & Gear, Rollo and Rina are hardworking and passionate about their craft. Rollo, the elder of the two, is a burly man with a thick beard and a jovial demeanor. Rina, on the other hand, is slender and quick, with a sharp tongue and an even sharper mind. Together, they make a formidable team.
+**Rollo and Rina Frogheart**: The sibling duo behind Grit & Gear, Rollo and Rina are hardworking and passionate about their craft. Rollo, the elder of the two, is a burly man with a thick beard and a jovial demeanor. Rina, on the other hand, is slender and quick, with a sharp tongue and an even sharper mind. Together, they make a formidable team.
 
 **Doctor Octavius Quill**: The eccentric scholar who runs The Scroll & Circuit, Dr. Quill is a man of unbridled curiosity and vast knowledge. His wild, unkempt hair and the ink stains on his hands are testament to his relentless pursuit of knowledge. Despite his slightly mad appearance, he is well-respected and is a valuable source of information.
 
