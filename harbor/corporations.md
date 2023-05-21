@@ -2,7 +2,7 @@
 title: Corporations
 description: List of active corporations in Harbor
 published: true
-date: 2023-05-21T23:04:15.634Z
+date: 2023-05-21T23:51:45.127Z
 tags: no-spoilers, info
 editor: markdown
 dateCreated: 2023-05-21T23:04:15.634Z
@@ -21,3 +21,11 @@ Mystech Consortium: A somewhat controversial corporation known for blending tech
 Oracle Information Systems: A leader in the field of data gathering and analysis, Oracle is interested in Overdark Station for the wealth of unknown information it may contain. This could range from ancient data archives to advanced AI systems.
 
 First Bank of Harbor: **Placeholder**
+
+
+
+Scratch 'n' Scrounge Universal Salvage. Scratch 'n' Scrounge, colloquially known as "SnS", is notorious for its "quantity over quality" approach to scavenging operations. This unscrupulous corporation aims for mass recruitment of low-skilled scavengers, providing them with the bare minimum of gear necessary for survival in the Overdark Station - much of which is secondhand, malfunctioning, or even outright broken.
+
+Despite its dubious reputation, SnS continues to attract desperate individuals due to its low entry requirements and the promise of split profits. However, the company takes a sizable cut from the proceeds, often leaving their scavengers with a pittance for their dangerous work. Yet the allure of finding a high-value artifact keeps many tied to the corporation, hoping for that one lucky break.
+
+The company is led by its equally shady founder, Max "Scratch" Durand, a man known for his bottomless greed and disregard for safety standards. He operates from a ramshackle office within Iron Holdfast, always on the lookout for the next desperate soul willing to risk it all for a slim chance at fortune.
