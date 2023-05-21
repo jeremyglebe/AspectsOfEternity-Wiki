@@ -2,7 +2,7 @@
 title: Iron Holdfast
 description: A small, independent settlement that serves as the central hub for raiders who venture into the Overdark Station.
 published: true
-date: 2023-05-21T23:06:12.515Z
+date: 2023-05-21T23:06:48.547Z
 tags: history, no-spoilers, location
 editor: markdown
 dateCreated: 2023-05-21T18:47:10.548Z
@@ -34,6 +34,9 @@ Iron Holdfast is a small, independent settlement that serves as the central hub 
 
 **Doctor Octavius Quill**: The eccentric scholar who runs The Scroll & Circuit, Dr. Quill is a man of unbridled curiosity and vast knowledge. His wild, unkempt hair and the ink stains on his hands are testament to his relentless pursuit of knowledge. Despite his slightly mad appearance, he is well-respected and is a valuable source of information.
 
+
+
+Zee Rocketman is the lead engineer for Genesis Biotech's Overdark program.
 
 
 
