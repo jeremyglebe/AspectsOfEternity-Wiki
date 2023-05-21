@@ -2,8 +2,8 @@
 title: Iron Holdfast
 description: A small, independent settlement that serves as the central hub for raiders who venture into the Overdark Station.
 published: true
-date: 2023-05-21T18:47:41.457Z
-tags: history, no-spoilers
+date: 2023-05-21T18:49:01.175Z
+tags: history, no-spoilers, location
 editor: markdown
 dateCreated: 2023-05-21T18:47:10.548Z
 ---
