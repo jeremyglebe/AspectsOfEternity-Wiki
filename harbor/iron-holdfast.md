@@ -2,7 +2,7 @@
 title: Iron Holdfast
 description: A small, independent settlement that serves as the central hub for raiders who venture into the Overdark Station.
 published: true
-date: 2023-05-21T18:49:01.175Z
+date: 2023-05-21T23:06:12.515Z
 tags: history, no-spoilers, location
 editor: markdown
 dateCreated: 2023-05-21T18:47:10.548Z
@@ -33,3 +33,16 @@ Iron Holdfast is a small, independent settlement that serves as the central hub 
 **Rollo and Rina Forgeheart**: The sibling duo behind Grit & Gear, Rollo and Rina are hardworking and passionate about their craft. Rollo, the elder of the two, is a burly man with a thick beard and a jovial demeanor. Rina, on the other hand, is slender and quick, with a sharp tongue and an even sharper mind. Together, they make a formidable team.
 
 **Doctor Octavius Quill**: The eccentric scholar who runs The Scroll & Circuit, Dr. Quill is a man of unbridled curiosity and vast knowledge. His wild, unkempt hair and the ink stains on his hands are testament to his relentless pursuit of knowledge. Despite his slightly mad appearance, he is well-respected and is a valuable source of information.
+
+
+
+
+Dr. Thaddeus "Sawbones" Crane.
+
+Dr. Thaddeus Crane, known colloquially as "Sawbones," is the resident physician of Iron Holdfast. He doesn't hold an official license - his medical training is a mix of experience, intuition, and a personal collection of medical books and data slates. Nonetheless, he is the go-to figure for medical aid in the camp.
+
+Sawbones is a man of indeterminable age, with crow's feet and laugh lines that suggest both a life lived long and hard, yet full of humor. He sports a bushy white beard that obscures much of his face, but his eyes - sharp and blue - betray a keen mind and a steady hand.
+
+Dr. Crane runs a small clinic, aptly named "Sawbones' Fix-Up Shop," out of a repurposed cargo container. The clinic is filled with an assortment of scavenged medical equipment, supplies, and curious items he's collected over the years. It's not as sterile as a hospital, but Sawbones prides himself on his ability to patch up anything from gunshot wounds to alien spore infections.
+
+Despite his unconventional methods and sometimes gruff demeanor, Sawbones is a kind-hearted individual with a genuine care for the community. He has a particular soft spot for novice adventurers, always ready to impart some grizzled advice along with his treatments. Though he would never admit it, he sees himself as a sort of paternal figure in the camp - always there with a bandage and a bit of tough love when needed.
