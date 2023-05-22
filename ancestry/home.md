@@ -2,7 +2,7 @@
 title: Ancestries & Origins
 description: The history of various ancestries on Elysys and nearby celestial bodies.
 published: true
-date: 2023-05-16T04:06:33.427Z
+date: 2023-05-22T19:39:17.956Z
 tags: no-spoilers, ancestry
 editor: markdown
 dateCreated: 2023-05-16T04:06:33.427Z
@@ -40,3 +40,6 @@ Mutants are individuals who have undergone mutation due to various causes, such 
 
 ## Cyborgs
 Cyborgs are unique entities, a synthesis of flesh and steel, largely born from The Lord of The Forge's attempts to replicate the Astral Vanguard. They are characterized by their superior physical strength, durability, and processing capabilities, but their existence is often a struggle to maintain their sense of humanity amidst their mechanical nature. Although they are often seen as tools by Corporations and Banks, they possess the unique insight and complexity of human intelligence. Despite their rarity and the suspicion they often face, Cyborgs are resilient, striving to find their place in a world that often views them with fear and mistrust.
+
+# Languages
+
