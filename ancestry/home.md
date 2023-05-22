@@ -2,7 +2,7 @@
 title: Ancestries & Origins
 description: The history of various ancestries on Elysys and nearby celestial bodies.
 published: true
-date: 2023-05-22T19:39:17.956Z
+date: 2023-05-22T19:45:39.300Z
 tags: no-spoilers, ancestry
 editor: markdown
 dateCreated: 2023-05-16T04:06:33.427Z
