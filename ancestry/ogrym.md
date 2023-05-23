@@ -3,7 +3,7 @@ title: Ogrym
 description: Ogryms are a unique offshoot of ogres, monstrous in size with stone-like skin and poisonous breath.
 published: true
 date: 2023-05-16T18:09:04.890Z
-tags: history, no-spoilers, ancestry
+tags: history, no-spoilers, ancestry, info
 editor: markdown
 dateCreated: 2023-05-16T03:53:41.703Z
 ---
@@ -12,60 +12,32 @@ dateCreated: 2023-05-16T03:53:41.703Z
 
 Ogryms, descendants of an ancient Ogre army, are truly monstrous in size, standing significantly larger and wider than even the mighty Ogres from which they descend. Their skin is akin to stone, their breath toxic to certain forms of life, and their eyes burn with deep reds and yellows. They are slow in pace but surprisingly agile in combat, capable of devastating physical feats.
 
-# Playing an Ogrym
+# Special Abilities
 
-When selected as a character ancestry, Ogryms have the following traits:
+## Positive Abilities
 
-## [2] Armor 2
-The species has a thick hide or is encrusted in solid material like scaly plating or even rock. This grants Armor +2 each time it’s taken.
+| Ability                  | Description                                                                                                                                                                                                                                               |
+| :----------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Size +1**              | Ogryms are larger than normal. Each point of Size adds directly to Toughness. Large species may have difficulty using equipment designed for more traditional humanoids. See page 105 for more on Size.                                                   |
+| **Stone Skin**           | Ogryms have a thick hide of stone-like flesh, granting them Armor +2.                                                                                                                                                                                     |
+| **Strength  of Ten Men** | Ogryms are incredibly strong, capable of feats of strength that would be impossible for a normal human. They start with a d6 in Strength.                                                                                                                 |
+| **Combat Instincts**     | Ogryms may be slow of pace, but they are surprisingly agile in combat. They start with a d6 in Fighting.                                                                                                                                                  |
+| **Spicy Air**            | Nothing like a little poison to help refresh an Ogrym. They are immune to poison. (Including strong resistance to alcohol)                                                                                                                                |
+| **Fung-i-cide***         | You may, as an action, make a breath attack. In addition, passively, some plants, vines, and most fungi, assuming they cannot make Vigor rolls, will die when in proximity to you. What plants are affected and at what distance is determined by the GM. |
 
-## [2] Attribute Increase (Strength)
-During character creation, the species increases a particular attribute
-(Agility, Smarts, Spirit, Strength, or Vigor) one die type. This increases the Trait’s maximum
-by one as well.
+### *Fung-i-cide Breath Attack
+Make an Athletics ranged attack to expel a cloud of your breath in a Cone Template for the attack (see Area Effect attacks on page 97). Breath attacks may be Evaded (page 100). On success, instead of inflicting damage, affected creatures who failed to evade the attack must roll Vigor or suffer the effects of Lethal Poison. Each use causes the you Fatigue.
 
-## [2] Attribute Increase (Vigor)
-During character creation, the species increases a particular attribute
-(Agility, Smarts, Spirit, Strength, or Vigor) one die type. This increases the Trait’s maximum
-by one as well.
+Affected creatures include: all fungus-based creatures (including spores, mushrooms, etc) and some plant-based creatures (esp. vines) as determined by the GM. 
 
-## [1] Immune to Poison
-The species is immune to poison. (And, in Ogryms case, resistant to alcohol)
+## Negative Abilities
 
-## [2] Poisonous Touch (Lethal)
-With a successful Touch Attack (page 108), bite, or claw, the victim
-must roll Vigor or suffer the effects of Mild Poison. For 3 points the poison can be upgraded
-to Knockout, Lethal, or Paralyzing instead, but each use causes the hero Fatigue. The
-character may always choose whether or not to use her poison touch. See page 128 for
-Poison and its effects. (NOTE: Normally costs 3, reducing because in the Ogryms' case, this only affects fungi, vines, "chaos growths", and some common plantlife)
-
-## [2] Size +2
-The creature is larger than normal. Each point of Size adds directly to Toughness and increases maximum Strength one step. Large species may have difficulty using equipment designed for more traditional humanoids. See page 106 for more on Size.
-
-## [-2] Big
-The race is particularly large in a world where most others aren’t. He subtracts 2 from Trait rolls when using equipment that wasn’t specifically designed for his race and cannot wear their armor or clothing. Equipment, food, and clothing cost double the listed price.
-
-## [-1] Hinderance (Minor, Death Wish)
-The race has an inherent Minor Hindrance for 1 point, or a Major Hindrance
-for 2. This doesn’t affect the ability to choose other Hindrances during character creation.
-
-## [-1] Hinderance (Minor, Outsider)
-The race has an inherent Minor Hindrance for 1 point, or a Major Hindrance
-for 2. This doesn’t affect the ability to choose other Hindrances during character creation.
-
-## [-2] Hinderance (Major, Phobia (Fungi))
-The race has an inherent Minor Hindrance for 1 point, or a Major Hindrance
-for 2. This doesn’t affect the ability to choose other Hindrances during character creation.
-
-## [-1] Hinderance (Minor, Ugly)
-The race has an inherent Minor Hindrance for 1 point, or a Major Hindrance
-for 2. This doesn’t affect the ability to choose other Hindrances during character creation.
-
-## [-1] Racial Enemy (Orx):
-This species dislikes another species relatively common to the setting. They suffer a –2 penalty to Persuasion rolls when dealing with their rivals and may become hostile with little provocation. This may only be taken once per race.
-
-## [-1] Reduced Pace 1
-For –1 point, reduce Pace by 1 and the running die a die type (d4 is reduced to d4–1). For –2 points, reduce Pace another 2 points and subtract 2 from Athletics and rolls to resist Athletics where movement and mobility are integral to the challenge (GM’s call).
+| Ability                | Description                                                                                                                                                                                                                                                                                |
+| :--------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Big**                | Ogryms are very large, standing at least 8 feet tall and weighing over 400 pounds. They subtract 2 when using equipment designed for smaller beings and cannot wear their armor or clothing. Equipment, armor, food, and clothing cost double the listed price.                            |
+| **Moving Mountain**    | Ogryms' large size make them a bit slower than most. They reduce their Pace by 1 and the running die is a d4.                                                                                                                                                                              |
+| **Lost Ones**          | You gain the Hindrance: Outsider (minor)                                                                                                                                                                                                                                                   |
+| **Inherited Memories** | Ogryms inherit memories from their ancestors, but all you see is blood, death, and spores. The Orx horde has left you with a crippling fear of all fungi. Even the smallest of mushrooms strike you as wretched and dangerous to keep around. You gain a Hindrance: Phobia (Major, Fungi). |
 
 # History
 
