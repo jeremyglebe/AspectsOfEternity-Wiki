@@ -2,7 +2,7 @@
 title: Player's Guide to Elysys
 description: A short primer on the Aspects of Eternity setting for players
 published: true
-date: 2023-05-25T17:20:23.752Z
+date: 2023-05-25T17:24:14.370Z
 tags: history, no-spoilers, info
 editor: markdown
 dateCreated: 2023-05-25T15:23:54.845Z
@@ -18,11 +18,11 @@ Your adventures will mainly take place in the local settlements of humanity: **I
 
 **Harbor** is the larger entity, a city-state and the last bastion of Humanity and the Empire. It is hardened, yet hopeful, place with various corporations, guilds, and powerful figures always vying for control.
 
-# **The Overdark Station**
+# **The Shadow Upon The City**
 
 The Overdark Station, an ancient moon-sized space station of alien origin looms in the sky above Harbor. It is filled with artifacts and mystery. With its unique environments and alien lifeforms, it attracts corporations and adventurers eager for wealth and knowledge.
 
-# **Ancestries and Origins**
+# **Our Origins**
 
 In Elysys, Humanity with a capital 'H' unites diverse races. 
 
@@ -39,7 +39,7 @@ Origins offer another layer to your character's identity:
 - **Mutants**: Individuals with chaotic, mutant DNA, possessing diverse appearances and abilities.
 - **Cyborgs**: A synthesis of flesh and steel, with enhanced physical strength, durability, and processing capabilities.
 
-# **Currency in Harbor**
+# **Whats in It For Me?**
 
 Harbor has a diverse monetary system.
 
@@ -50,11 +50,9 @@ Harbor has a diverse monetary system.
 
 The cost to convert physical to digital currency and obtain a bank card may differ, leading to potential disparities and tensions among social classes.
 
-# **Corporations and Guilds**
+# **Follow The Money...**
 
 Many corporations are active in Harbor, each with its unique goals and interests. Nova-X Industries, Stellar Horizons Corporation, Genesis Biotech, Aegis Dynamics, Mystech Consortium, Oracle Information Systems, First Bank of Harbor, and the notorious Scratch 'n' Scrounge Universal Salvage, all shape the power dynamics of the city-state.
-
-Guilds and organizations offer opportunities for adventurers. The Astral Vanguard, for instance, are heroes of old with members drawn from all ancestries.
 
 # **Your Adventure Begins**
 
