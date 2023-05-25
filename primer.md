@@ -2,7 +2,7 @@
 title: Player's Guide to Elysys
 description: A short primer on the Aspects of Eternity setting for players
 published: true
-date: 2023-05-25T17:24:14.370Z
+date: 2023-05-25T17:29:02.173Z
 tags: history, no-spoilers, info
 editor: markdown
 dateCreated: 2023-05-25T15:23:54.845Z
@@ -20,7 +20,7 @@ Your adventures will mainly take place in the local settlements of humanity: **I
 
 # **The Shadow Upon The City**
 
-The Overdark Station, an ancient moon-sized space station of alien origin looms in the sky above Harbor. It is filled with artifacts and mystery. With its unique environments and alien lifeforms, it attracts corporations and adventurers eager for wealth and knowledge.
+No calming, luminescent moon circles Elysys. Wise men say that in ancient times such a rock did orbit the planet. Now, however, there is only The Overdark Station. An ancient moon-sized space station of alien origin looms in the sky above Harbor. It is filled with artifacts and mystery. With its unique environments and alien lifeforms, it attracts corporations and adventurers eager for wealth and knowledge.
 
 # **Our Origins**
 
