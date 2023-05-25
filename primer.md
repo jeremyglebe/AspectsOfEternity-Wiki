@@ -2,7 +2,7 @@
 title: Player's Guide to Elysys
 description: A short primer on the Aspects of Eternity setting for players
 published: true
-date: 2023-05-25T15:55:21.212Z
+date: 2023-05-25T17:19:10.285Z
 tags: history, no-spoilers, info
 editor: markdown
 dateCreated: 2023-05-25T15:23:54.845Z
@@ -10,19 +10,19 @@ dateCreated: 2023-05-25T15:23:54.845Z
 
 Welcome to Elysys! An exciting world where advanced technology meets arcane arts, where humans and human-adjacent races coexist, where corporations strive for dominance, and where ancient ruins wait to be explored.
 
-# **The Local Area: Iron Holdfast and Harbor**
+# **A Place to Call Home**
 
-Your adventures will mainly take place in the local area: **Iron Holdfast** and **Harbor**.
+Your adventures will mainly take place in the local settlements of humanity: **Iron Holdfast** and **Harbor**.
 
-**Iron Holdfast** is the bustling, gritty heart of Harbor. It's the central hub for scavengers and workers living amidst towering scrap yards, mechanic shops, seedy taverns, and more. 
+**Iron Holdfast** is a bustling, gritty settlement on the outskirts of Harbor. It's the central hub for scavengers and raiders living amidst towering scrap yards, gear shops, seedy pubs, and more. 
 
-**Harbor** is the larger entity, a city-state inside a hollowed-out asteroid. It's a melting pot of diverse cultures and races, with sections controlled by various corporations, guilds, and powerful figures.
+**Harbor** is the larger entity, a city-state and the last bastion of Humanity and the Empire. It is hardened, yet hopeful, place with various corporations, guilds, and powerful figures always vying for control.
 
 # **The Overdark Station**
 
 Overdark Station, an ancient ruin filled with artifacts and mystery, lies on the edge of Harbor. With its unique environments and alien lifeforms, it attracts corporations and adventurers eager for wealth and knowledge.
 
-# **Races: Ancestries and Origins**
+# **Ancestries and Origins**
 
 In Elysys, Humanity with a capital 'H' unites diverse races. 
 
