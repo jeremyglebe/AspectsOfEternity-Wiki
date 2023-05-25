@@ -8,9 +8,9 @@ editor: markdown
 dateCreated: 2023-05-25T15:23:54.845Z
 ---
 
-# **Eden: A Primer for New Players**
+# **Elysys: A Primer for New Players**
 
-Welcome to Eden! An exciting world where advanced technology meets arcane arts, where humans and human-adjacent races coexist, where corporations strive for dominance, and where ancient ruins wait to be explored.
+Welcome to Elysys! An exciting world where advanced technology meets arcane arts, where humans and human-adjacent races coexist, where corporations strive for dominance, and where ancient ruins wait to be explored.
 
 ## **The Local Area: Iron Holdfast and Harbor**
 
@@ -20,13 +20,13 @@ Your adventures will mainly take place in the local area: **Iron Holdfast** and 
 
 **Harbor** is the larger entity, a city-state inside a hollowed-out asteroid. It's a melting pot of diverse cultures and races, with sections controlled by various corporations, guilds, and powerful figures.
 
-## **The Station: Overdark**
+## **The Overdark Station**
 
 Overdark Station, an ancient ruin filled with artifacts and mystery, lies on the edge of Harbor. With its unique environments and alien lifeforms, it attracts corporations and adventurers eager for wealth and knowledge.
 
 ## **Races: Ancestries and Origins**
 
-In Eden, Humanity with a capital 'H' unites diverse races. 
+In Elysys, Humanity with a capital 'H' unites diverse races. 
 
 - **Humans**: The most numerous and adaptable of races.
 - **Hobmen (Hobs)**: Agile descendants of halflings, resistant to exhaustion, hunger, and sleep deprivation.
@@ -47,7 +47,7 @@ Harbor has a diverse monetary system.
 
 - **Physical Currency**: Gold Crowns, Silver Shillings, and Brass Pennies for day-to-day transactions.
 - **Prestige Tokens**: An exclusive currency symbolizing status and influence among the elite.
-- **Digital Currency**: Harbor Marks, used by the upper class and high-end workers.
+- **Harbor Marks**: Digital currency, used by the upper class, as well as corporate or educated workers.
 - **Shadow Coin**: A digital cryptocurrency for underground business and clandestine operations.
 
 The cost to convert physical to digital currency and obtain a bank card may differ, leading to potential disparities and tensions among social classes.
@@ -60,4 +60,4 @@ Guilds and organizations offer opportunities for adventurers. The Astral Vanguar
 
 ## **Your Adventure Begins**
 
-Now, prepare yourself for a thrilling journey through Eden. It's a world filled with opportunities and challenges, waiting for you to leave your mark. Will you seek fortune in the depths of Overdark Station, navigate the intricate politics of Harbor, or perhaps shape the future of your chosen guild? The choice is yours. Welcome to Eden, adventurer. We wish you luck!
+Now, prepare yourself for a thrilling journey through Elysys. It's a world filled with opportunities and challenges, waiting for you to leave your mark. Will you seek fortune in the depths of Overdark Station, navigate the intricate politics of Harbor, or perhaps shape the future of your chosen guild? The choice is yours. Welcome to Elysys, adventurer. We wish you luck!
