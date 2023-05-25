@@ -14,6 +14,8 @@ dateCreated: 2023-05-15T16:59:00.936Z
 
 Welcome to Aspects of Eternity, a rich and immersive sci-fi/post-apocalypse campaign setting for tabletop RPGs. In this world, players will traverse a dangerous and mysterious planet, contend with factions vying for power, explore the remnants of an ancient alien civilization, and ultimately, search for the lost Aspects of Eternity to restore their God-King and secure humanity's future. This setting, built on a detailed history and featuring a blend of primitive and advanced technology, provides ample opportunities for adventure, intrigue, and exploration.
 
+[See the Player's Guide Here](/primer)
+
 ## The Cataclysm and the Fall of the Gods
 The story of Aspects of Eternity begins on the long-forgotten planet of Elysys, the cradle of human and demi-human civilizations. A devastating cataclysm struck the world when the moon collapsed, revealing an ancient presence just beneath the surface. This being would emerge and lay waste to the once-thriving civilizations, opening portals into the dark Abyss and felling gods with a whisper. Then, as soon as it had appeared, the presence was gone from this realm. The gods, immortal and mighty, were stripped of their Aspects of Eternity, becoming mortal and vulnerable. As the Aspects vanished, so too did their ability to traverse the godly realms.
 
