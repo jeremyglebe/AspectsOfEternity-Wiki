@@ -2,13 +2,13 @@
 title: Iron Holdfast
 description: A small, independent settlement that serves as the central hub for raiders who venture into the Overdark Station.
 published: true
-date: 2023-05-21T23:13:51.614Z
+date: 2023-05-25T14:54:14.226Z
 tags: history, no-spoilers, location
 editor: markdown
 dateCreated: 2023-05-21T18:47:10.548Z
 ---
 
-# Camp: Iron Holdfast
+# Iron Holdfast
 
 Iron Holdfast is a small, independent settlement that serves as the central hub for raiders who venture into the Overdark Station. Despite its small size, it is bustling with activity, with a mix of hardened adventurers, technicians, merchants, and scholars who have all come in pursuit of riches, knowledge, or the thrill of exploration.
 
