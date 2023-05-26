@@ -1,0 +1,42 @@
+{
+    "Adaptable": {
+      "cost": 2,
+      "max_times": 1,
+      "description": "The race has great variation among its people and cultures. Characters start with a free Novice Edge of their choice (and must meet all the Edge's Requirements)."
+    },
+    "Additional Action": {
+      "cost": 3,
+      "max_times": 1,
+      "description": "The being has additional appendages, enhanced reflexes, or exceptional eye-hand coordination. He may ignore 2 points of Multi-Action penalties each turn."
+    },
+    "Aquatic/Semi-Aquatic": {
+      "cost": "1/2",
+      "max_times": 1,
+      "description": "For one point the character is semi-aquatic and can hold his breath for 15 minutes before checking for drowning. For two, he's native to the water. He cannot drown in oxygenated liquid and moves his full Pace when swimming (see Movement, page 92)."
+    },
+    "Armor": {
+      "cost": 1,
+      "max_times": 3,
+      "description": "The species has a thick hide or is encrusted in solid material like scaly plating or even rock. This grants Armor +2 each time it's taken."
+    },
+    "Attribute Increase": {
+      "cost": 2,
+      "max_times": "U",
+      "description": "During character creation, the species increases a particular attribute (Agility, Smarts, Spirit, Strength, or Vigor) one die type. This increases the Trait's maximum by one as well."
+    },
+    "Bite": {
+      "cost": 1,
+      "max_times": 1,
+      "description": "The race has fangs that cause Strength+d4 damage. See Natural Weapons, page 104 for more information."
+    },
+    "Burrowing": {
+      "cost": 1,
+      "max_times": 1,
+      "description": "The species can burrow into loose earth and move through it at half normal Pace (he cannot run). He cannot normally be attacked while burrowing, and can attempt to surprise opponents who didn't see him coming by making an opposed Stealth vs. Notice roll. If successful, the burrower adds +2 to his attack and damage rolls that round, or +4 with a raise (he has The Drop, page 100)."
+    },
+    "Claws": {
+      "cost": "2/3/4",
+      "max_times": 1,
+      "description": "The race has claws that cause Str+d4 damage. One more point may be spent to increase their damage to Strength+d6, and/or another to add AP 2. See Natural Weapons, page 104 for more information."
+    }
+  }

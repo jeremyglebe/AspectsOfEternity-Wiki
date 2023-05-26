@@ -1,6 +1,6 @@
-The first number is the cost in points. Following that is the ability name.
-Then in parentheses is the maximum number of times the ability may be taken. “U” means unlimited.
-Finally, the description of the ability is given.
+The first number is the cost in points. ("cost") Following that is the ability name. (key)
+Then in parentheses is the maximum number of times the ability may be taken. ("max_times") “U” means unlimited.
+Finally, the description of the ability is given. ("description")
 
 −2/–3   Attribute Penalty (Once per Attribute):
             One attribute (but not its linked skills) suffers a –1
