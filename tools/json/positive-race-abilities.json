@@ -1,202 +1,200 @@
 {
-  "abilities": [
-    {
-      "cost": "2",
-      "name": "Adaptable",
-      "max_times": "1",
-      "description": "The race has great variation among its people and cultures. Characters start with a free Novice Edge of their choice (and must meet all the Edge’s Requirements)."
-    },
-    {
-      "cost": "3",
-      "name": "Additional Action",
-      "max_times": "1",
-      "description": "The being has additional appendages, enhanced reflexes, or exceptional eye-hand coordination. He may ignore 2 points of Multi-Action penalties each turn."
-    },
-    {
-      "cost": "1/2",
-      "name": "Aquatic/Semi-Aquatic",
-      "max_times": "1",
-      "description": "For one point the character is semi-aquatic and can hold his breath for 15 minutes before checking for drowning. For two, he’s native to the water. He cannot drown in oxygenated liquid and moves his full Pace when swimming (see Movement, page 92)."
-    },
-    {
-      "cost": "1",
-      "name": "Armor",
-      "max_times": "3",
-      "description": "The species has a thick hide or is encrusted in solid material like scaly plating or even rock. This grants Armor +2 each time it’s taken."
-    },
-    {
-      "cost": "2",
-      "name": "Attribute Increase",
-      "max_times": "U",
-      "description": "During character creation, the species increases a particular attribute (Agility, Smarts, Spirit, Strength, or Vigor) one die type. This increases the Trait’s maximum by one as well."
-    },
-    {
-      "cost": "1",
-      "name": "Bite",
-      "max_times": "1",
-      "description": "The race has fangs that cause Strength+d4 damage. See Natural Weapons, page 104 for more information."
-    },
-    {
-      "cost": "1",
-      "name": "Burrowing",
-      "max_times": "1",
-      "description": "The species can burrow into loose earth and move through it at half normal Pace (he cannot run). He cannot normally be attacked while burrowing, and can attempt to surprise opponents who didn’t see him coming by making an opposed Stealth vs. Notice roll. If successful, the burrower adds +2 to his attack and damage rolls that round, or +4 with a raise (he has The Drop, page 100)."
-    },
-    {
-      "cost": "2/3/4",
-      "name": "Claws",
-      "max_times": "1",
-      "description": "The race has claws that cause Str+d4 damage. One more point may be spent to increase their damage to Strength+d6, and/or another to add AP 2. See Natural Weapons, page 104 for more information."
-    },
-    {
-      "cost": "8",
-      "name": "Construct",
-      "max_times": "1",
-      "description": "Constructs are artificial beings made of inorganic material. They add +2 to recover from being Shaken, ignore one level of Wound modifiers, don’t breathe, and are immune to disease and poison. Wounds must be mended via the Repair skill. Each attempt takes one hour per current Wound level and ignores the “Golden Hour”. Many Constructs have the Dependency Negative Racial Ability (reflecting their need for a power source)."
-    },
-    {
-      "cost": "2",
-      "name": "Doesn’t Breathe",
-      "max_times": "1",
-      "description": "The species does not breathe. Individuals aren’t affected by inhaled toxins, can’t drown, and don’t suffocate in a vacuum. (They may still freeze, however.)"
-    },
-    {
-      "cost": "2+X",
-      "name": "Edge",
-      "max_times": "U",
-      "description": "All members of this race have the same innate Edge chosen from those available in the setting. Unlike Adaptable, this ability ignores Requirements except other Edges. Each Rank beyond Novice costs an additional point to a maximum of Heroic Rank (5)."
-    },
-    {
-      "cost": "1",
-      "name": "Environmental Resistance",
-      "max_times": "U",
-      "description": "The species receives a +4 bonus to resist a single negative environmental effect, such as heat, cold, lack of air, radiation, etc. Damage from that source is also reduced by 4."
-    },
-    {
-      "cost": "2/4/6",
-      "name": "Flight",
-      "max_times": "1",
-      "description": "The species can fly at Pace 6 (or 12 for 4 points) and “run” for extra movement as usual. For 6 points, the being can fly at Pace 24 and may “run” for 2d6″ of additional movement. Maneuvering uses the Athletics skill. Racial flight presumes some kind of wings which can be targeted or fouled (a Bound or Entangled character cannot fly)."
-    },
-    {
-      "cost": "2",
-      "name": "Hardy",
-      "max_times": "1",
-      "description": "A second Shaken result in combat does not cause a Wound."
-    },
-    {
-      "cost": "1/2",
-      "name": "Horns",
-      "max_times": "1",
-      "description": "The being has a horn or horns that cause Str+d4 damage (or Str+d6 for 2 points). See Natural Weapons, page 104, for more information."
-    },
-    {
-      "cost": "1",
-      "name": "Immune to Poison or Disease",
-      "max_times": "2",
-      "description": "The species is immune to poison or disease (your choice). It may be taken twice for both effects."
-    },
-    {
-      "cost": "1",
-      "name": "Infravision",
-      "max_times": "1",
-      "description": "The creature “sees” heat, either through eyes or other sensory organs. This halves Illumination penalties when attacking warm targets (including invisible beings)."
-    },
-    {
-      "cost": "2",
-      "name": "Leaper",
-      "max_times": "1",
-      "description": "The character can jump twice as far as listed under Movement, page 92. In addition, he adds +4 to damage when leaping as part of a Wild Attack instead of the usual +2 (unless in a closed or confined space where he cannot leap horizontally or vertically—GM’s call)."
-    },
-    {
-      "cost": "1",
-      "name": "Low Light Vision",
-      "max_times": "1",
-      "description": "The being ignores penalties for Dim or Dark illumination (but not Pitch Darkness)."
-    },
-    {
-      "cost": "1",
-      "name": "No Vital Organs",
-      "max_times": "1",
-      "description": "These species have hidden, extremely tough, or redundant vital organs. Called Shots do no extra damage against them."
-    },
-    {
-      "cost": "2",
-      "name": "Pace",
-      "max_times": "2",
-      "description": "The character’s Pace is increased by +2 and his running die is increased a die type."
-    },
-    {
-      "cost": "1",
-      "name": "Parry",
-      "max_times": "3",
-      "description": "The creature’s natural Parry is increased by +1. This may be due to a prehensile tail, extra limbs, enhanced reflexes, or even latent psi-sense."
-    },
-    {
-      "cost": "1/3",
-      "name": "Poisonous Touch",
-      "max_times": "1",
-      "description": "With a successful Touch Attack (page 108), bite, or claw, the victim must roll Vigor or suffer the effects of Mild Poison. For 3 points the poison can be upgraded to Knockout, Lethal, or Paralyzing instead, but each use causes the hero Fatigue. The character may always choose whether or not to use her poison touch. See page 128 for Poison and its effects."
-    },
-    {
-      "cost": "2/1",
-      "name": "Power",
-      "max_times": "U",
-      "description": "The race has an innate ability that functions like a power (see page 147). For 2 points, she has Arcane Background (Gifted) and a power that reflects her unusual ability. Each time this is taken after the first costs 1 point and grants another power. It does not increase her Power Points—use the Power Points Edge for that."
-    },
-    {
-      "cost": "1",
-      "name": "Reach",
-      "max_times": "3",
-      "description": "Long limbs, tentacles, etc. grant the creature Reach +1 (add +1 each time it’s taken after the first)."
-    },
-    {
-      "cost": "2/3",
-      "name": "Regeneration",
-      "max_times": "1",
-      "description": "The being heals damage quickly. She may make a natural healing roll once per day (rather than every five days). For 3 points, permanent injuries may be recovered once all other Wounds are regenerated. Treat each injury as an additional Wound for purposes of recovery (the being may try once per week)."
-    },
-    {
-      "cost": "1",
-      "name": "Size +1",
-      "max_times": "3",
-      "description": "The creature is larger than normal. Each point of Size adds directly to Toughness and increases maximum Strength one step. Large species may have difficulty using equipment designed for more traditional humanoids. See page 106 for more on Size."
-    },
-    {
-      "cost": "1/2",
-      "name": "Skill",
-      "max_times": "U",
-      "description": "The character starts with a d4 in a skill inherent to her race or culture. For 2 points (or 1 if already a core skill), it starts at d6 and the skill’s maximum increases to d12+1."
-    },
-    {
-      "cost": "1/2",
-      "name": "Skill Bonus",
-      "max_times": "Once per Skill",
-      "description": "Biological factors give the race a +1/+2 bonus when using a particular skill. A race that emits pheromones, for example, might have a +1 bonus to Persuasion."
-    },
-    {
-      "cost": "1",
-      "name": "Sleep Reduction",
-      "max_times": "2",
-      "description": "The being needs half the normal amount of sleep as humans. If taken a second time, the being never sleeps."
-    },
-    {
-      "cost": "2+X",
-      "name": "Super Powers",
-      "max_times": "1",
-      "description": "The race has truly extraordinary abilities taken from the Savage Worlds Super Powers Companion. The cost is 2—for Arcane Background (Super Powers)—plus the actual cost of the power selected (X). Make sure you have the GM’s permission before taking this powerful ability."
-    },
-    {
-      "cost": "1",
-      "name": "Toughness",
-      "max_times": "3",
-      "description": "The character has hardened skin, scales, or extremely dense tissue that increases his base Toughness by +1."
-    },
-    {
-      "cost": "1",
-      "name": "Wall Walker",
-      "max_times": "1",
-      "description": "The species may walk on vertical surfaces normally, or inverted surfaces at half Pace."
-    }
-  ]
+  "Adaptable": {
+    "cost": "2",
+    "name": "Adaptable",
+    "max_times": "1",
+    "description": "The race has great variation among its people and cultures. Characters start with a free Novice Edge of their choice (and must meet all the Edge's Requirements)."
+  },
+  "Additional Action": {
+    "cost": "3",
+    "name": "Additional Action",
+    "max_times": "1",
+    "description": "The being has additional appendages, enhanced reflexes, or exceptional eye-hand coordination. He may ignore 2 points of Multi-Action penalties each turn."
+  },
+  "Aquatic/Semi-Aquatic": {
+    "cost": "1/2",
+    "name": "Aquatic/Semi-Aquatic",
+    "max_times": "1",
+    "description": "For one point the character is semi-aquatic and can hold his breath for 15 minutes before checking for drowning. For two, he's native to the water. He cannot drown in oxygenated liquid and moves his full Pace when swimming (see Movement, page 92)."
+  },
+  "Armor": {
+    "cost": "1",
+    "name": "Armor",
+    "max_times": "3",
+    "description": "The species has a thick hide or is encrusted in solid material like scaly plating or even rock. This grants Armor +2 each time it's taken."
+  },
+  "Attribute Increase": {
+    "cost": "2",
+    "name": "Attribute Increase",
+    "max_times": "U",
+    "description": "During character creation, the species increases a particular attribute (Agility, Smarts, Spirit, Strength, or Vigor) one die type. This increases the Trait's maximum by one as well."
+  },
+  "Bite": {
+    "cost": "1",
+    "name": "Bite",
+    "max_times": "1",
+    "description": "The race has fangs that cause Strength+d4 damage. See Natural Weapons, page 104 for more information."
+  },
+  "Burrowing": {
+    "cost": "1",
+    "name": "Burrowing",
+    "max_times": "1",
+    "description": "The species can burrow into loose earth and move through it at half normal Pace (he cannot run). He cannot normally be attacked while burrowing, and can attempt to surprise opponents who didn't see him coming by making an opposed Stealth vs. Notice roll. If successful, the burrower adds +2 to his attack and damage rolls that round, or +4 with a raise (he has The Drop, page 100)."
+  },
+  "Claws": {
+    "cost": "2/3/4",
+    "name": "Claws",
+    "max_times": "1",
+    "description": "The race has claws that cause Str+d4 damage. One more point may be spent to increase their damage to Strength+d6, and/or another to add AP 2. See Natural Weapons, page 104 for more information."
+  },
+  "Construct": {
+    "cost": "8",
+    "name": "Construct",
+    "max_times": "1",
+    "description": "Constructs are artificial beings made of inorganic material. They add +2 to recover from being Shaken, ignore one level of Wound modifiers, don't breathe, and are immune to disease and poison. Wounds must be mended via the Repair skill. Each attempt takes one hour per current Wound level and ignores the “Golden Hour”. Many Constructs have the Dependency Negative Racial Ability (reflecting their need for a power source)."
+  },
+  "Doesn't Breathe": {
+    "cost": "2",
+    "name": "Doesn't Breathe",
+    "max_times": "1",
+    "description": "The species does not breathe. Individuals aren't affected by inhaled toxins, can't drown, and don't suffocate in a vacuum. (They may still freeze, however.)"
+  },
+  "Edge": {
+    "cost": "2+X",
+    "name": "Edge",
+    "max_times": "U",
+    "description": "All members of this race have the same innate Edge chosen from those available in the setting. Unlike Adaptable, this ability ignores Requirements except other Edges. Each Rank beyond Novice costs an additional point to a maximum of Heroic Rank (5)."
+  },
+  "Environmental Resistance": {
+    "cost": "1",
+    "name": "Environmental Resistance",
+    "max_times": "U",
+    "description": "The species receives a +4 bonus to resist a single negative environmental effect, such as heat, cold, lack of air, radiation, etc. Damage from that source is also reduced by 4."
+  },
+  "Flight": {
+    "cost": "2/4/6",
+    "name": "Flight",
+    "max_times": "1",
+    "description": "The species can fly at Pace 6 (or 12 for 4 points) and “run” for extra movement as usual. For 6 points, the being can fly at Pace 24 and may “run” for 2d6″ of additional movement. Maneuvering uses the Athletics skill. Racial flight presumes some kind of wings which can be targeted or fouled (a Bound or Entangled character cannot fly)."
+  },
+  "Hardy": {
+    "cost": "2",
+    "name": "Hardy",
+    "max_times": "1",
+    "description": "A second Shaken result in combat does not cause a Wound."
+  },
+  "Horns": {
+    "cost": "1/2",
+    "name": "Horns",
+    "max_times": "1",
+    "description": "The being has a horn or horns that cause Str+d4 damage (or Str+d6 for 2 points). See Natural Weapons, page 104, for more information."
+  },
+  "Immune to Poison or Disease": {
+    "cost": "1",
+    "name": "Immune to Poison or Disease",
+    "max_times": "2",
+    "description": "The species is immune to poison or disease (your choice). It may be taken twice for both effects."
+  },
+  "Infravision": {
+    "cost": "1",
+    "name": "Infravision",
+    "max_times": "1",
+    "description": "The creature “sees” heat, either through eyes or other sensory organs. This halves Illumination penalties when attacking warm targets (including invisible beings)."
+  },
+  "Leaper": {
+    "cost": "2",
+    "name": "Leaper",
+    "max_times": "1",
+    "description": "The character can jump twice as far as listed under Movement, page 92. In addition, he adds +4 to damage when leaping as part of a Wild Attack instead of the usual +2 (unless in a closed or confined space where he cannot leap horizontally or vertically—GM's call)."
+  },
+  "Low Light Vision": {
+    "cost": "1",
+    "name": "Low Light Vision",
+    "max_times": "1",
+    "description": "The being ignores penalties for Dim or Dark illumination (but not Pitch Darkness)."
+  },
+  "No Vital Organs": {
+    "cost": "1",
+    "name": "No Vital Organs",
+    "max_times": "1",
+    "description": "These species have hidden, extremely tough, or redundant vital organs. Called Shots do no extra damage against them."
+  },
+  "Pace": {
+    "cost": "2",
+    "name": "Pace",
+    "max_times": "2",
+    "description": "The character's Pace is increased by +2 and his running die is increased a die type."
+  },
+  "Parry": {
+    "cost": "1",
+    "name": "Parry",
+    "max_times": "3",
+    "description": "The creature's natural Parry is increased by +1. This may be due to a prehensile tail, extra limbs, enhanced reflexes, or even latent psi-sense."
+  },
+  "Poisonous Touch": {
+    "cost": "1/3",
+    "name": "Poisonous Touch",
+    "max_times": "1",
+    "description": "With a successful Touch Attack (page 108), bite, or claw, the victim must roll Vigor or suffer the effects of Mild Poison. For 3 points the poison can be upgraded to Knockout, Lethal, or Paralyzing instead, but each use causes the hero Fatigue. The character may always choose whether or not to use her poison touch. See page 128 for Poison and its effects."
+  },
+  "Power": {
+    "cost": "2/1",
+    "name": "Power",
+    "max_times": "U",
+    "description": "The race has an innate ability that functions like a power (see page 147). For 2 points, she has Arcane Background (Gifted) and a power that reflects her unusual ability. Each time this is taken after the first costs 1 point and grants another power. It does not increase her Power Points—use the Power Points Edge for that."
+  },
+  "Reach": {
+    "cost": "1",
+    "name": "Reach",
+    "max_times": "3",
+    "description": "Long limbs, tentacles, etc. grant the creature Reach +1 (add +1 each time it's taken after the first)."
+  },
+  "Regeneration": {
+    "cost": "2/3",
+    "name": "Regeneration",
+    "max_times": "1",
+    "description": "The being heals damage quickly. She may make a natural healing roll once per day (rather than every five days). For 3 points, permanent injuries may be recovered once all other Wounds are regenerated. Treat each injury as an additional Wound for purposes of recovery (the being may try once per week)."
+  },
+  "Size +1": {
+    "cost": "1",
+    "name": "Size +1",
+    "max_times": "3",
+    "description": "The creature is larger than normal. Each point of Size adds directly to Toughness and increases maximum Strength one step. Large species may have difficulty using equipment designed for more traditional humanoids. See page 106 for more on Size."
+  },
+  "Skill": {
+    "cost": "1/2",
+    "name": "Skill",
+    "max_times": "U",
+    "description": "The character starts with a d4 in a skill inherent to her race or culture. For 2 points (or 1 if already a core skill), it starts at d6 and the skill's maximum increases to d12+1."
+  },
+  "Skill Bonus": {
+    "cost": "1/2",
+    "name": "Skill Bonus",
+    "max_times": "Once per Skill",
+    "description": "Biological factors give the race a +1/+2 bonus when using a particular skill. A race that emits pheromones, for example, might have a +1 bonus to Persuasion."
+  },
+  "Sleep Reduction": {
+    "cost": "1",
+    "name": "Sleep Reduction",
+    "max_times": "2",
+    "description": "The being needs half the normal amount of sleep as humans. If taken a second time, the being never sleeps."
+  },
+  "Super Powers": {
+    "cost": "2+X",
+    "name": "Super Powers",
+    "max_times": "1",
+    "description": "The race has truly extraordinary abilities taken from the Savage Worlds Super Powers Companion. The cost is 2—for Arcane Background (Super Powers)—plus the actual cost of the power selected (X). Make sure you have the GM's permission before taking this powerful ability."
+  },
+  "Toughness": {
+    "cost": "1",
+    "name": "Toughness",
+    "max_times": "3",
+    "description": "The character has hardened skin, scales, or extremely dense tissue that increases his base Toughness by +1."
+  },
+  "Wall Walker": {
+    "cost": "1",
+    "name": "Wall Walker",
+    "max_times": "1",
+    "description": "The species may walk on vertical surfaces normally, or inverted surfaces at half Pace."
+  }
 }
