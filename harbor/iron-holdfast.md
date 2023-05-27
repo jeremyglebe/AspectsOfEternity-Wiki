@@ -2,7 +2,7 @@
 title: Iron Holdfast
 description: A small, independent settlement that serves as the central hub for raiders who venture into the Overdark Station.
 published: true
-date: 2023-05-25T15:09:26.495Z
+date: 2023-05-27T01:03:51.187Z
 tags: history, no-spoilers, location
 editor: markdown
 dateCreated: 2023-05-21T18:47:10.548Z
@@ -26,7 +26,7 @@ A heavily fortified launchpad for Overdark expeditions, this is the point of ent
 Run by quick-witted trader Maelis "Quickfinger" Vel, The Cache is Iron Holdfast's premier general goods store. Here, explorers can find everything from basic rations to specialized equipment for navigating the hazards of the Overdark. \[[Find more on The Cache here](/thecache)\]
 
 ### Grit & Gear
-A combination of blacksmith and repair shop, Grit & Gear is operated by the sibling artificers, Rollo and Rina Forgeheart. Their craftsmanship is unmatched in Iron Holdfast, and they are well respected for their skills in crafting, repairing, and modifying equipment. \[[Find more on Grit & Gear here](/gritandgear)\]
+A combination of blacksmith and repair shop, Grit & Gear is operated by the sibling artificers, Rollo and Rina Frogheart. Their craftsmanship is unmatched in Iron Holdfast, and they are well respected for their skills in crafting, repairing, and modifying equipment. \[[Find more on Grit & Gear here](/gritandgear)\]
 
 ### The Scroll & Circuit
 A research facility cum library, this establishment is run by the eccentric scholar, Doctor Octavius Quill. He offers compensation for any artifacts or data brought back from the Overdark Station, making his facility a hub of information about the station and its countless mysteries. \[[Find more on The Scroll & Circuit here](/scrollandcircuit)\]
@@ -42,7 +42,7 @@ The proprietor of The Rusty Crowbar and the de facto leader of Iron Holdfast, Ga
 ### Maelis "Quickfinger" Vel
 The nimble-fingered elven proprietor of The Cache, Maelis has an unerring eye for valuable goods and a shrewd mind for business. Despite her somewhat suspicious appearance, she is a fair trader and a vital part of Iron Holdfast's commerce. \[[Find more on Maelis Vel here](/maelisvel)\]
 
-### Rollo and Rina Forgeheart
+### Rollo and Rina Frogheart
 The dynamic duo behind Grit & Gear, Rollo and Rina are devoted to their craft. Their combined skills and work ethic make them the go-to artisans for equipment and repairs within Iron Holdfast. \[[Find more on Rollo and Rina Forgeheart here](/forgehearts)\]
 
 ### Doctor Octavius Quill
