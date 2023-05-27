@@ -2,7 +2,7 @@
 title: Player's Guide to Elysys
 description: A short primer on the Aspects of Eternity setting for players
 published: true
-date: 2023-05-25T17:31:29.603Z
+date: 2023-05-27T20:52:59.117Z
 tags: history, no-spoilers, info
 editor: markdown
 dateCreated: 2023-05-25T15:23:54.845Z
@@ -44,7 +44,6 @@ Origins offer another layer to your character's identity:
 Harbor has a diverse monetary system.
 
 - **Physical Currency**: Gold Crowns, Silver Shillings, and Brass Pennies for day-to-day transactions.
-- **Prestige Tokens**: An exclusive currency symbolizing status and influence among the elite.
 - **Harbor Marks**: Digital currency, used by the upper class, as well as corporate or educated workers.
 - **Shadow Coin**: A digital cryptocurrency for underground business and clandestine operations.
 
