@@ -2,13 +2,13 @@
 title: Aspects of Eternity
 description: A Sci-Fi/Post-Apocalypse Campaign Setting
 published: true
-date: 2023-05-16T04:21:42.099Z
+date: 2023-05-29T21:40:50.335Z
 tags: history, intro, no-spoilers
 editor: markdown
 dateCreated: 2023-05-15T16:59:00.936Z
 ---
 
-![aspectsphere.jpeg](/aspectsphere.jpeg =500x){.align-center}
+![aspectsphere.jpeg](/home/aspectsphere.jpeg =500x){.align-center}
 
 # Introduction
 
