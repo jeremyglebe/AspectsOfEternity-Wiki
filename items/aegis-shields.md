@@ -35,7 +35,7 @@ The AEGIS shields in SWADE function as an extra pool of hit points that can abso
 - Overcharge: Allows the user to spend a Benny to temporarily increase the maximum SP of the AEGIS shield by an amount equal to their Spirit die type for a number of rounds equal to their Spirit die type.
 - Harmonize: Enables the user to link their shield with an ally's AEGIS shield. While linked, the characters add together their SP and divide them evenly. The shield with the lower regen die is used.
 - Siphon: Provides the user the ability to regain SP equal to half the damage (rounded down) from an energy-based attack they are hit with, up to the original SP of the shield.
-- Blowback: (Requires use of both hands - must brace against the source of the shield) Costs a Benny to activate as a reaction to an attack. Creates an explosive counterforce (Quarter Cone Template facing the attacker) dealing damage equal to the Retaliation Value (RV) percentage of the incoming attack. Knocks the shield user back 1 inch for every 25 points of RV and makes them prone. Each use depletes one charge; shield ceases to function when all charges are expended until specific recharging requirements are met.
+- Counterpulse: Costs a Benny to activate as a reaction to an attack. Creates an explosive counterforce (25% Cone Template facing the attacker) dealing damage equal to the Retaliation Value (RV) percentage of the incoming attack. Knocks the shield user back 1 inch for every 25 RV (rounded down) and makes them prone. Each use depletes one charge; shield ceases to function when all charges are expended until specific recharging requirements are met.
 
 ## Conclusion
 
