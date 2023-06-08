@@ -2,10 +2,10 @@
 title: AEGIS Shields
 description: Regenerating energy shields for personal protection
 published: true
-date: 2023-05-25T15:18:18.340Z
+date: 2023-06-08T10:40:18.340Z
 tags: no-spoilers, info
 editor: markdown
-dateCreated: 2023-05-21T18:51:33.213Z
+dateCreated: 2023-06-08T10:40:18.340Z
 ---
 
 # AEGIS Shields for Savage Worlds Adventure Edition
