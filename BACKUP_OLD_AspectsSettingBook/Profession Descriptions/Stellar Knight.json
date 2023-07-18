@@ -1,0 +1,96 @@
+{
+    "name": "Stellar Knight",
+    "description": "Stellar Knights are elite warriors who have devoted their lives to the protection of humanity and the pursuit of justice. Trained in various forms of combat and warfare, they are skilled tacticians and fearsome warriors, often found leading troops into battle, fighting off otherworldly threats, or defending strategic positions.",
+    "requirements": {
+        "equipment": [
+            "Melee Weapon",
+            "Ranged Weapon",
+            "Armored Space Suit",
+            "Communicator"
+        ],
+        "skills": [],
+        "background": "Military or Law Enforcement"
+    },
+    "starting_equipment": [
+        "Power Sword",
+        "Boltgun",
+        "Bullet (x9)",
+        "Powered Armor",
+        "Armored Space Suit",
+        "Communicator",
+        "First Aid Kit",
+        "Rations (x3)",
+        "Power Cell (x3)"
+    ],
+    "traits": [],
+    "drawbacks": [],
+    "skills": [
+        "Melee Combat",
+        "Ranged Combat",
+        "Athletics",
+        "Leadership",
+        "Intimidate",
+        "Resolve",
+        "Education",
+        "Warfare",
+        "Stealth",
+        "Open"
+    ],
+    "bonus_advances": [
+        "Combat",
+        "Combat",
+        "Brawn",
+        "Brawn",
+        "Agility",
+        "Perception",
+        "Intelligence",
+        "Willpower",
+        "Fellowship"
+    ],
+    "talents": [
+        "Tactical Acumen",
+        "Death Blow",
+        "Whirlwind Strike",
+        "Impenetrable Wall",
+        "True Grit",
+        "Power Armor Mastery"
+    ],
+    "new_talents": [
+        {
+            "name": "Power Armor Mastery",
+            "description": "You have been extensively trained in the use of heavy, powered armor, granting you better control and mobility while wearing it. These suits are not simply tools, they are extensions of your body.",    
+            "effect": "When wearing Powered Armor or an Armored Space Suit, you gain a +10 Base Chance to all Athletics, Melee Combat, Ranged Combat, and Stealth checks. Additionally, you mitigate the total encumbrance value of your armor by 2.",
+            "short": "Better control and mobility in powered armor."
+        }
+    ],
+    "archetypes": [
+        {
+            "name": "Strike Leader",
+            "description": "The Strike Leader is a Stellar Knight who specializes in leading their troops in high-intensity operations. They excel in cutting through enemy lines and coordinating devastating attacks, using their tactical acumen to outmaneuver their foes.",
+            "trait": {
+                "name": "Precision Strike",
+                "description": "As a Strike Leader, you are an expert in coordinating precise and devastating attacks against your enemies. You identify key targets and guide your troops to deliver the most damage possible.",     
+                "effect": "When leading a group of allies in combat, you can designate a single enemy target as the focus of your coordinated attack. Allies gain a +10 Base Chance to all combat checks against the designated target for the duration of the battle. Additionally, once per session, you can call for a concentrated attack, granting all allies a +10 bonus to damage rolls on their next attack against the designated target.",
+                "drawback": {
+                    "name": "In the Thick of Battle",
+                    "description": "Your dedication to leading from the front means you're often found in the thick of the fight, putting your defenses at risk.",
+                    "effect": "Enemies gain a +10 Base Chance to all combat checks made against you while you're in melee range. Additionally, your defense suffers if you're not actively engaging enemies in close combat."
+                }
+            }
+        },
+        {
+            "name": "Void Crusader",
+            "description": "The Void Crusader is a Stellar Knight who excels in defending their comrades from the unknown horrors of the cosmos. They are skilled in space-borne combat and eradicate otherworldly threats with no hesitation, using their extensive knowledge to identify and exploit weaknesses.",
+            "trait": {
+                "name": "Void Vigilance",
+                "description": "Your unmatched experience fighting in the void has honed your senses, allowing you to identify and exploit otherworldly weaknesses.",
+                "effect": "When fighting space-bound or otherworldly creatures, you gain a +10 Base Chance to all combat, Perception, and Xenoscience checks. Additionally, once per session, you can pierce the defenses of an otherworldly or space-bound enemy, granting a +10 Base Chance to hit and causing any resistances they possess to be ignored for one round.",
+                "drawback": {
+                    "name": "Celestial Obsession",
+                    "description": "Your dedication to protecting humanity from the dangers of the cosmos has left you a bit disconnected from the common man.",
+                    "effect": "You suffer a -10 Base Chance to Fellowship-based skills when interacting with everyday citizens. Additionally, people may keep their distance and are often wary of your motives."
+                }
+            }
+        }
+    ]
+}

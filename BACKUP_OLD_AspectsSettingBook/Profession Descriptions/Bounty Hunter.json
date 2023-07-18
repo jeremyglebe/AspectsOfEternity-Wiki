@@ -1,0 +1,100 @@
+
+{
+    "name": "Bounty Hunter",
+    "description": "Bounty Hunters are mercenaries who specialize in finding people and dealing with human threats. They may be required to capture, kill, or simply locate individuals that are otherwise out of reach of their employers.",
+    "requirements": {
+        "equipment": [
+            "Melee Weapon",
+            "Ranged Weapon",
+            "Surveillance Gear",
+            "Restraints"
+        ],
+        "skills": [],
+        "background": null
+    },
+    "starting_equipment": [
+        "Knife",
+        "Baton",
+        "Semi-Automatic Pistol",
+        "Bullet (x9)",
+        "Surveillance Gear",
+        "Restraints",
+        "Leather Armor",
+        "Tracking Device (x3)",
+        "First Aid Kit",
+        "Rations (x3)",
+        "Lock-picking Kit",
+        "Nav System"
+    ],
+    "traits": [],
+    "drawbacks": [],
+    "skills": [
+        "Awareness",
+        "Ranged Combat",
+        "Stealth",
+        "Melee Combat",
+        "Intimidate",
+        "Guile",
+        "Skulduggery",
+        "Resolve",
+        "Athletics",
+        "Open"
+    ],
+    "bonus_advances": [
+        "Combat",
+        "Combat",
+        "Brawn",
+        "Agility",
+        "Perception",
+        "Perception",
+        "Intelligence",
+        "Willpower",
+        "Willpower"
+    ],
+    "talents": [
+        "Relentless",
+        "Deadshot Sniper",
+        "Takedown Expert",
+        "Untraceable Shadow",
+        "Eagle Eyes",
+        "Nerves of Steel"
+    ],
+    "new_talents": [
+        {
+            "name": "Crippling Sniper",
+            "description": "You have masterful knowledge of trauma points and structural weaknesses, allowing your long-range attacks to not just hurt, but cripple your targets. You ensure that when a target is hit, they won't be running away anytime soon.",
+            "effect": "When you perform a Called Shot from Medium or Long Range, successfully damage a target, and roll to injure the target, you may spend 1AP to change the result of a Chaos Die to a 6. This may only be done once per Called Shot.",
+            "short": "1AP to guarantee injury on a Called Shot."
+        }
+    ],
+    "archetypes": [
+        {
+            "name": "Detective",
+            "description": "The Detective is a Bounty Hunter who specializes in hunting down criminals and bringing them to justice. They often work directly with law enforcement, though they may operate independently in the case of a vendetta. In private business, they may help locate or monitor people of interest to their employers.",
+            "trait": {
+                "name": "Underworld Tracker",
+                "description": "As a seasoned Detective, you have a deep understanding of the criminal underworld and know how to navigate its intricate web to hunt down your targets. Your expertise allows you to uncover hidden leads and track criminals more effectively.",
+                "effect": "When attempting to gather information or locate a target, you gain a +10 Base Chance to all relevant Rumor and Skulduggery checks. Additionally, once per session, you can tap into your network of informants to gain a valuable clue or piece of information related to your current target, as determined by the GM.",
+                "drawback": {
+                    "name": "Relentless Pursuit",
+                    "description": "Your pursuit of the truth gnaws at you, and losing potential sources of information before you've solved a case is unacceptable. This unyielding dedication can lead to unintended consequences when your target is slain before all relevant information is extracted.",
+                    "effect": "You suffer Corruption if you kill a target related to your investigation without obtaining all vital information from them (as determined by the GM). Additionally, you gain Corruption if you kill a target you were meant to apprehend, even if the violent encounter was unavoidable."
+                }
+            }
+        },
+        {
+            "name": "Retriever",
+            "description": "The Retriever is a Bounty Hunter who specializes in recovering lost or stolen property. On the Overdark Station, Corp Retrievers are hired to recover gear loaned to (now dead) adventurers by corporate sponsors. They are somewhat notorious for producing corpses to recover gear from.",
+            "trait": {
+                "name": "Gadget Savant",
+                "description": "As a Retriever, you have extensive experience with various adventuring gadgets and travel gear. Your expertise allows you to make the most out of advanced equipment and quickly identify potential weaknesses or vulnerabilities.",
+                "effect": "When using advanced equipment or attempting to exploit weaknesses in such gear, you gain a +10 Base Chance to relevant Tradecraft, Skulduggery, and Ranged Combat checks. Additionally, once per session, you can gain a temporary advantage or bypass a security feature on a piece of high-tech equipment, as determined by the GM.",
+                "drawback": {
+                    "name": "Public Disdain",
+                    "description": "As a Retriever, you're known for tracking down and recovering stolen goods or fugitives, which has garnered you a negative reputation among the general public. Many people view you as a ruthless enforcer for the powerful or greedy, rather than a protector of justice.",
+                    "effect": "You suffer a -10 to your Base Chance for social skills such as Charm, Bargain, or Guile when interacting with civilians. Additionally, the disposition of civilian NPCs during Social Intrigue encounters related to your work is always Unfriendly."
+                }
+            }
+        }
+    ]
+}
