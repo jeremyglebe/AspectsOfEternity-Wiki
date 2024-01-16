@@ -10,45 +10,19 @@ dateCreated: 2023-05-16T03:53:41.703Z
 
 # Overview
 
-Gryms, descendants of an ancient Ogre army, are truly monstrous in size, standing significantly larger and wider than even the mighty Ogres from which they descend. Their skin is akin to stone, their breath toxic to certain forms of life, and their eyes burn with deep reds and yellows. They are slow in pace but surprisingly agile in combat, capable of devastating physical feats.
+Gryms, descendants of an ancient Ogre army, have skin like stone, their breath toxic to certain forms of life, and their eyes burn with deep reds and yellows. They are incredible combatants capable of withstanding harsh conditions, performing mighty physical feats, and harnessing thousands of years of ancestral instincts.
 
 ![Grym.png](/ancestry/Grym.png =500x){.align-center}
 
-# Special Abilities
-
-## Positive Abilities
-
-| Ability                  | Description                                                                                                                                                                                                                                               |
-| :----------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Languages**            | Gryms' native language is Jargog. In addition, Gryms can speak Humanity's common language, Terra.                                                                                                                                                       |
-| **Size +1**              | Gryms are larger than normal. Each point of Size adds directly to Toughness. Large species may have difficulty using equipment designed for more traditional humanoids. See page 105 for more on Size.                                                   |
-| **Stone Skin**           | Gryms have a thick hide of stone-like flesh, granting them Armor +2.                                                                                                                                                                                     |
-| **Strength  of Ten Men** | Gryms are incredibly strong, capable of feats of strength that would be impossible for a normal human. They start with a d6 in Strength.                                                                                                                 |
-| **Combat Instincts**     | Gryms may be slow of pace, but they are surprisingly agile in combat. They start with a d6 in Fighting.                                                                                                                                                  |
-| **Spicy Air**            | Nothing like a little poison to help refresh an Grym. They are immune to poison. (Including strong resistance to alcohol)                                                                                                                                |
-| **Fung-i-cide***         | You may, as an action, make a breath attack. In addition, passively, some plants, vines, and most fungi, assuming they cannot make Vigor rolls, will die when in proximity to you. What plants are affected and at what distance is determined by the GM. |
-
-### *Fung-i-cide Breath Attack
-Make an Athletics ranged attack to expel a cloud of your breath in a Cone Template for the attack (see Area Effect attacks on page 97). Breath attacks may be Evaded (page 100). On success, instead of inflicting damage, affected creatures who failed to evade the attack must roll Vigor or suffer the effects of Lethal Poison. Each use causes the you Fatigue.
-
-Affected creatures include: all fungus-based creatures (including spores, mushrooms, etc) and some plant-based creatures (esp. vines) as determined by the GM. 
-
-## Negative Abilities
-
-| Ability                | Description                                                                                                                                                                                                                                                                                |
-| :--------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Big**                | Gryms are very large, standing at least 8 feet tall and weighing over 400 pounds. They subtract 2 when using equipment designed for smaller beings and cannot wear their armor or clothing. Equipment, armor, food, and clothing cost double the listed price.                            |
-| **Moving Mountain**    | Gryms' large size make them a bit slower than most. They reduce their Pace by 1 and the running die is a d4.                                                                                                                                                                              |
-| **Lost Ones**          | You gain the Hindrance: Outsider (minor)                                                                                                                                                                                                                                                   |
-| **Inherited Memories** | Gryms inherit memories from their ancestors, but all you see is blood, death, and spores. The Orx horde has left you with a crippling fear of all fungi. Even the smallest of mushrooms strike you as wretched and dangerous to keep around. You gain a Hindrance: Phobia (Major, Fungi). |
-
 # History
 
-The origin of the Gryms traces back to a crucial event in the history of the cosmos. A massive Ogre army was dispatched to the outer reaches of the galaxy with the mission to contain and combat the burgeoning plague of Delta Orx-Spore. This struggle lasted for an epic 42000-year period, a battle of attrition against an enemy that was ultimately unstoppable. 
+The origin of the Gryms traces back to a crucial event in the history of the cosmos. A massive Ogre army was dispatched to the outer reaches of the galaxy with the mission to contain and combat the burgeoning plague of Delta Orx-Spore. This struggle lasted for an epic 7000-year period, a battle of attrition against an enemy that was ultimately unstoppable. 
 
 The Ogre warriors who managed to survive this protracted conflict returned to their own kind vastly changed. Their bodies had adapted to the relentless onslaught of the spore and the harsh conditions of their mission, birthing new traits and abilities that set them apart from their original Ogre lineage. These survivors were christened as Gryms, a new race forged in the crucible of war.
 
-However, the fight against the spore was ultimately lost. A detachment of survivors, lost and disoriented from their intended path back to the God-Emperor's astral fortress, stumbled upon Humanity fleeing back to Eden. Here, they found a semblance of their old selves and a chance to continue their existence. They re-joined Humanity in its fight for survival, becoming a part of the collective struggle against the demons that now infest Eden. 
+Perhaps most interestingly was that as the need for Gryms to develop powerful instincts drove their accelerated evolution, strong instincts eventually turned into direct access to ancestral memories. Gryms are able to tap into the memories of their ancestors, allowing them to draw upon the knowledge and experience of their forebears. This ability is not without its drawbacks, however, as Gryms are often overwhelmed by the sheer volume of memories and the horrifying nature of thousands of years of slaughter, war, tragedy, and defeat.
+
+The fight against the spore was ultimately lost. A detachment of survivors, lost and disoriented from their intended path back to the God-King's astral fortress, stumbled upon Humanity fleeing back to Eden. Here, they found a semblance of their old selves and a chance to continue their existence. They re-joined Humanity in its fight for survival, becoming a part of the collective struggle against the demons that now infest Eden. 
 
 
 # Traits
