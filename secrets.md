@@ -12,7 +12,7 @@ dateCreated: 2023-05-15T19:03:58.369Z
 
 ## The God-King's Sacrifice and the Ascension of the White Flame
 
-The cataclysm of Elysium was a catastrophe of apocalyptic proportions, brought to bear by the manifestation of the Moon Presence, an ancient and potent outer god. Unleashing its unholy power, it laid waste to the world, transforming a once prosperous civilization into a battlefield of despair and destruction.
+The cataclysm of Eden was a catastrophe of apocalyptic proportions, brought to bear by the manifestation of the Moon Presence, an ancient and potent outer god. Unleashing its unholy power, it laid waste to the world, transforming a once prosperous civilization into a battlefield of despair and destruction.
 
 It was during this time of chaos and devastation that God-King Aurias made his final stand. With a resolute heart and unwavering determination, he confronted the Moon Presence. In an act of ultimate sacrifice, Aurias used every shred of his divine power to banish the malevolent entity. The cost was his life; his radiant form was extinguished, reduced to a shriveled husk.
 
