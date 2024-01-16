@@ -14,20 +14,20 @@ Humanity, with a capital 'H', refers to all human-adjacent ancestries, including
 ## Humans
 Humans are the most numerous of the races, known for their adaptability and diversity. They excel in manifesting their beliefs and destiny, often leading them to become influential clergymen and religious leaders.
 
+## Dwarves
+Dwarves have maintained their lineage in its purest form. Occasionally, human families give birth to 100% dwarven children. They are masters of the forge, metals, and mechanics.
+
 ## Hobs
 Descendants of Halflings, Hobs are about 4 feet tall and covered in hair, resembling short sasquatches. They are nimble, adaptable, and known for learning new skills rapidly.
-
-## Fymbles
-The cosmic children of elven lineage, Fymbles have translucent skin with lights dancing beneath, resembling portals to celestial bodies. They wield a powerful Empath aura that influences those around them.
 
 ## Meks (Gnismen)
 Evolved from Gnomes, Meks average 5'5" in height, with rubbery flesh and slim, angled features. Their fingers are thin and precise, suited for engineering work. They are resistant to electrical currents. They are prone to being misunderstood due to their logical and concise manner of speech, which often comes across as cold or unemotional. This leads to unfair stereotypes and bigotry, with the derogatory term 'Gnob' used by those who wish to insult or belittle them.
 
+## Fymbles
+The cosmic children of elven lineage, Fymbles have translucent skin with lights dancing beneath, resembling portals to celestial bodies. They wield a powerful Empath aura that influences those around them.
+
 ## Jargogs (Oggs)
 Bred as living siege machines, Jargogs are large, muscular, and have a single eye with layered rings around the pupil. They possess long arms for reaching enemies and see far distances, making them effective in combat.
-
-## Dwarves
-Dwarves have maintained their lineage in its purest form. Occasionally, human families give birth to 100% dwarven children. They are masters of the forge, metals, and mechanics.
 
 ## [Gryms](/ancestry/grym)
 Gryms are evolved ogres, transformed by war against Delta Spores. They have stone-like skin, poisonous breath, and are agile in combat. A large portion of Gryms are sterile, leading to their gradual decline.
