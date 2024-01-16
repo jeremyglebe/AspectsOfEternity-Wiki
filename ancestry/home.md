@@ -1,6 +1,6 @@
 ---
 title: Ancestries & Origins
-description: The history of various ancestries on Elysys and nearby celestial bodies.
+description: The history of various ancestries on Eden and nearby celestial bodies.
 published: true
 date: 2023-05-25T17:10:14.268Z
 tags: no-spoilers, ancestry

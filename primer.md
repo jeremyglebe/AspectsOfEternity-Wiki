@@ -1,5 +1,5 @@
 ---
-title: Player's Guide to Elysys
+title: Player's Guide to Eden
 description: A short primer on the Aspects of Eternity setting for players
 published: true
 date: 2023-05-27T20:52:59.117Z
@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2023-05-25T15:23:54.845Z
 ---
 
-Welcome to Elysys! An exciting world where advanced technology meets arcane arts, where humans and human-adjacent races coexist, where corporations strive for dominance, and where ancient ruins wait to be explored.
+Welcome to Eden! An exciting world where advanced technology meets arcane arts, where humans and human-adjacent races coexist, where corporations strive for dominance, and where ancient ruins wait to be explored.
 
 # **A Place to Call Home**
 
@@ -20,11 +20,11 @@ Your adventures will mainly take place in the local settlements of humanity: **I
 
 # **The Shadow Upon The City**
 
-No calming, luminescent moon circles Elysys. Wise men say that in ancient times such a rock did orbit the planet. Now, however, there is only The Overdark Station. An ancient moon-sized space station of alien origin looms in the sky above Harbor. It is filled with artifacts and mystery. With its unique environments and alien lifeforms, it attracts corporations and adventurers eager for wealth and knowledge. Scavenging the Overdark is Humanity's only method of obtaining advanced technology since their devastating loss in the Exodus War resulted in their libaries and data being mostly destroyed.
+No calming, luminescent moon circles Eden. Wise men say that in ancient times such a rock did orbit the planet. Now, however, there is only The Overdark Station. An ancient moon-sized space station of alien origin looms in the sky above Harbor. It is filled with artifacts and mystery. With its unique environments and alien lifeforms, it attracts corporations and adventurers eager for wealth and knowledge. Scavenging the Overdark is Humanity's only method of obtaining advanced technology since their devastating loss in the Exodus War resulted in their libaries and data being mostly destroyed.
 
 # **Our Origins**
 
-In Elysys, Humanity with a capital 'H' unites diverse races. 
+In Eden, Humanity with a capital 'H' unites diverse races. 
 
 - **Humans**: The most numerous and adaptable of races.
 - **Hobmen (Hobs)**: Agile descendants of halflings, resistant to exhaustion, hunger, and sleep deprivation.
@@ -55,4 +55,4 @@ Many corporations are active in Harbor, each with its unique goals and interests
 
 # **Your Adventure Begins**
 
-Now, prepare yourself for a thrilling journey through Elysys. It's a world filled with opportunities and challenges, waiting for you to leave your mark. Will you seek fortune in the depths of Overdark Station, navigate the intricate politics of Harbor, or perhaps shape the future of your chosen guild? The choice is yours. Welcome to Elysys, adventurer. We wish you luck!
+Now, prepare yourself for a thrilling journey through Eden. It's a world filled with opportunities and challenges, waiting for you to leave your mark. Will you seek fortune in the depths of Overdark Station, navigate the intricate politics of Harbor, or perhaps shape the future of your chosen guild? The choice is yours. Welcome to Eden, adventurer. We wish you luck!

@@ -9,7 +9,7 @@ dateCreated: 2023-05-21T18:51:33.213Z
 ---
 
 
-In the world of Elysys, there are multiple forms of currency used by different social classes and for various purposes.
+In the world of Eden, there are multiple forms of currency used by different social classes and for various purposes.
 
 # Physical Currency
 
