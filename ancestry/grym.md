@@ -42,3 +42,42 @@ Gryms live for hundreds of years and are a slowly dying race, with only a few hu
 # In Society
 
 Their sheer physical presence and the scars of their history often make Gryms subjects of fear and misunderstanding. However, their inherent strength and resilience make them invaluable assets in battle, and their endurance and resistance to harsh conditions also make them excellent explorers and scouts. Despite the challenges they face, Gryms strive to find their place in a world that often views them with a mixture of fear and awe.
+
+# Statistics
+
+| Trait | Effect | Notes |
+| :--- | :--- | :--- |
+| **Big Folk** | Size +1. | Gryms are larger than most Humans. |
+| **Grym Resolve** | Start with a d6 in Vigor. | Gryms have a natural resistance to harsh conditions and don't die easily from their wounds. |
+| **Low Light Vision** | Gain Low Light Vision. | Gryms have adapted to fighting in the dark due to a lack of long-term access to light sources. |
+| **Stone Skin** | Natural +2 Armor. | Gryms have skin like stone, making them resistant to surface damage. |
+| **Incredible Immunity** | Immune to Poison and Disease. | Gryms are immune to most poisons and diseases. |
+| **Crushing Tusks** | Gain a Bite natural weapon (Str+d4). | Gryms have evolved tusks that are capable of crushing bone. (See Natural Weapons, page 104 SWADE Core) |
+| **Antifungal Breath** | With a successful Touch Attack (page 108) (holding long enough to exhale a large breath) the target must roll Vigor or suffer the effects of Lethal Poison. This ability may only target fungi an some plant life. (Determined by GM) Targets with no noteworthy resistance (flowers, common mushrooms) do not roll and instead die instantly. The character may always choose whether or not to use her poison touch. See page 129 for Poison and its effects. | Gryms have evolved a natural defense against the spore, a toxic breath that is lethal to certain types of lifeforms. |
+| **Ancestral Memories** | You may spend a Benny to recall a memory from your ancestors. This does not provide a direct mechanical benefit, but the GM may provide situational bonuses or important information based on the memory. You also gain a hinderance: Phobia (Major) - Fungi | Gryms have access to the memories of their ancestors, but these memories include the horrors of the Delta Orx-Spore and the violence endured during the 7000-year war. |
+| **Lost Army** | You gain the hinderance: Outsider (Minor) | Gryms were separated from Humanity for thousands of years and, while accepted as part of Humanity, are often still viewed with suspicion and fear. | 
+
+
+<details>
+<summary>Design Notes</summary>
+<br>
+Pg. 18 of SWADE's core rulebook explains creation of custom ancestries. Lifeforms in Aspects of Eternity are balanced for a total of +6, rather than the default +2. Strange, alien, and otherwise fantastical lifeforms are a staple of the setting and choosing one has a significant impact on the character's abilities.
+
+Here is the breakdown for how the Grym ancestry was created:
+| Cost | Trait | Notes |
+| :---: | :--- | :--- |
+| 1 | Armor | |
+| 2 | Attribute Increase | Vigor |
+| 1 | Bite | |
+| 2 | Immune to Poison or Disease (x2) | Taken twice for poison and disease. Poison/disease immunity is general and exceptions may exist. See AoE affliction rules. |
+| 1 | Low Light Vision | Low light is defined differently than the SWADE core. See AoE vision rules. |
+| 1 | Poisonous Touch | Lethal. Limited to fungi & some plant life. The lethal variant of Poisonous Touch usually costs 3 points, but the Grym's poison is only lethal to certain types of lifeforms. |
+| 1 | Size +1 | |
+| 0 | Ancestral Memories | Custom effect. Costs is 0 because it does not provide a direct mechanical benefit. |
+| -2 | Hindrance | Phobia (Major) - Fungi |
+| -1 | Hindrance | Outsider (Minor) |
+
+Total: 6 points
+</details>
+
+# Grym Edge Chains
