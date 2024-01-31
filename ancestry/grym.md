@@ -2,7 +2,7 @@
 title: Grym
 description: Gryms are a unique offshoot of ogres, monstrous in size with stone-like skin and poisonous breath.
 published: true
-date: 2023-05-29T21:41:47.986Z
+date: 2024-01-30T22:07:00.000Z
 tags: history, no-spoilers, ancestry, info
 editor: markdown
 dateCreated: 2023-05-16T03:53:41.703Z
@@ -57,7 +57,7 @@ Their sheer physical presence and the scars of their history often make Gryms su
 | **Ancestral Memories** | You may spend a Benny to recall a memory from your ancestors. This does not provide a direct mechanical benefit, but the GM may provide situational bonuses or important information based on the memory. You also gain a hinderance: Phobia (Major) - Fungi | Gryms have access to the memories of their ancestors, but these memories include the horrors of the Delta Orx-Spore and the violence endured during the 7000-year war. |
 | **Lost Army** | You gain the hinderance: Outsider (Minor) | Gryms were separated from Humanity for thousands of years and, while accepted as part of Humanity, are often still viewed with suspicion and fear. | 
 
-
+<p>
 <details>
 <summary>Design Notes</summary>
 <br>
@@ -79,5 +79,24 @@ Here is the breakdown for how the Grym ancestry was created:
 
 Total: 6 points
 </details>
+</p>
 
-# Grym Edge Chains
+## Grym Edge Chains
+
+<p>
+<details>
+<summary><b>Grym Instincts -</b> utilize ancestral memories in battle.</summary>
+
+| Edge | Prerequisites | Effect | Description |
+| :--- | :--- | :--- | :--- |
+| **Base Requirement** | | | |
+| **Grym Instincts** | Novice, Grym, Athletics, Fighting, or Shooting d6+ | Once per encounter, as a limited free action, a Grym can choose to gain the benefits of a single Combat Edge. They must meet all of the Edge's Requirements, and the benefits of the chosen Edge end after five rounds. | Learn to harness the memories of your ancestors to instinctively utilize combat techniques you've never learned. |
+| **Enhancements** | | | |
+| **Grym Lethality** | Seasoned, Grym Instincts | The Grym adds +1 to their damage rolls. | Unleash the agonizing fury of your ancestors. |
+| **Grym Legacy** | Veteran, Grym Instincts | The Grym gains the benefits of two Combat Edges when using Grym Instincts. They may choose both at the same time, or choose the second Edge as a separate limited free action in a subsequent turn. | When in battle, you live in two worlds: the present and the past. You can harness the combat maneuvers of your ancestors as easily as you draw breath. |
+| **Grym Destiny** | Heroic, Grym Instincts | The Grym gets a free reroll on any failed Athletics (throwing), Fighting, or Shooting roll. | Any time you would slip in battle, another soul calls out to you from the past, ensuring your future. |
+
+> Edges in the Grym Instincts chain come with an additional narrative effect. At the GM's discretion, the Grym may experience visions of their ancestors or tap into their knowledge and history in non-combat situations. This is not a mechanical benefit, but it can provide useful information or context for the Grym's actions. The more edges the Grym has in this chain, the more potent these visions become.
+
+</details>
+</p>
